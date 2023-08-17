@@ -162,6 +162,114 @@ export const items = [
 	},
 
 	{
+		'id': 'dc-electroventilador10',
+		'name': 'Electroventilador Duster 2.0 (11/18) Megane 1.6-1.9td- Clio II',
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': '1341307',
+		'marca': 'Renault',
+		'pesoNetoUnitario': '1,73',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_710482-MLA32718805092_102019-F.webp',
+		'categoria': 'Electroventiladores',
+		'codigoCliente': 'ST502',
+		'cliente':'SITEC'
+	},
+
+	{
+		'id': 'dc-electroventilador11',
+		'name': 'Electroventilador Clio II 1.2 (99/11) 1.6/1.9d (99/03)',
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': '7701045816',
+		'marca': 'Renault',
+		'pesoNetoUnitario': 'PENDIENTE',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_644858-MLA40865443945_022020-F.webp',
+		'categoria': 'Electroventiladores',
+		'codigoCliente': 'ST512',
+		'cliente':'SITEC'
+	},
+
+	{
+		'id': 'dc-electroventilador12',
+		'name': 'Electroventilador Volkswagen Polo Classic 1.6 - 1.8 Nafta',
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': '6K0959455A',
+		'marca': 'Volkswagen',
+		'pesoNetoUnitario': 'PENDIENTE',
+		'descripcion': 'lorem lorem',
+		'url': 'https://productimages.hepsiburada.net/s/22/550/9952062832690.jpg/format:webp',
+		'categoria': 'Electroventiladores',
+		'codigoCliente': 'ST505',
+		'cliente':'SITEC'
+	},
+
+	{
+		'id': 'dc-electroventilador13',
+		'name': 'Electroventilador Volkswagen Fox - Suran - Gol Trend',
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': '5U0959455B',
+		'marca': 'Volkswagen',
+		'pesoNetoUnitario': '2,20',
+		'descripcion': 'lorem lorem',
+		'url': 'https://eadn-wc05-10061504.nxedge.io/wp-content/uploads/E2-003G-1.png',
+		'categoria': 'Electroventiladores',
+		'codigoCliente': 'ST536',
+		'cliente':'SITEC'
+	},
+
+	{
+		'id': 'dc-electroventilador14',
+		'name': 'Electroventilador Astra - Corsa/ Volkswagen Gol 3rd Gen.',
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': '377959455H',
+		'marca': 'Volkswagen',
+		'pesoNetoUnitario': '1,88',
+		'descripcion': 'lorem lorem',
+		'url': 'https://elektra.vtexassets.com/arquivos/ids/3189534-800-auto?v=637650882417370000&width=800&height=auto&aspect=true',
+		'categoria': 'Electroventiladores',
+		'codigoCliente': 'ST501',
+		'cliente':'SITEC'
+	},
+
+	{
+		'id': 'dc-electroventilador15',
+		'name': 'Electroventilador  Gol 3rd Generation - Pointer/Saveiro',
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': 'F006KM0402',
+		'marca': 'Volkswagen',
+		'pesoNetoUnitario': '1,72',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_859938-MLA31536486263_072019-F.webp',
+		'categoria': 'Electroventiladores',
+		'codigoCliente': 'ST507',
+		'cliente':'SITEC'
+	},
+
+	{
 		'id': 'dc-parrillasuspension',
 		'name': 'Parrilla Susp. Izq. Giulietta 2010/…',	
 		'publisher': 'otro',
@@ -358,107 +466,740 @@ export const items = [
 
 	{
 		'id': 'dc-mazarueda',
-		'name': 'Maza De Rueda Kangoo 1.6 16v 1998/…',	
+		'name': 'Maza Rueda Trasera Armada Chevrolet Cobalt 1.8 - Onix 1.4',	
 		'publisher': 'otro',
 		'pais': 'Brasil',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '7701205499',
-		'marca': 'Renault',
+		'oem': '13500590',
+		'marca': 'Chevrolet',
+		'pesoNetoUnitario': '3,41',
 		'descripcion': 'lorem lorem',
-		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_640184-MLA48278092772_112021-F.webp',
-		'categoria':'Maza Rueda'
+		'url': 'https://i.ibb.co/RBDhHpq/13500590.jpg',
+		'categoria':'Maza Rueda',
+		'codigoCliente': 'ST1000',
+		'cliente':'SITEC'
+	},
+
+	{
+		'id': 'dc-mazarueda2',
+		'name': 'Ruleman Rueda Chevrolet Aveo /Kalos/Spark/Vectra 1.0/1.2',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '94536117/95983139',
+		'marca': 'Chevrolet',
+		'pesoNetoUnitario': '0,54',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ibb.co/V2VNNzL/94536117.jpg',
+		'categoria':'Maza Rueda',
+		'codigoCliente': 'ST309726',
+		'cliente':'SITEC'
+	},
+
+	{
+		'id': 'dc-mazarueda3',
+		'name': 'Ruleman Rueda Chevrolet Corsa Wind GL 94/.. Delantera',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '1603195/328106',
+		'marca': 'Chevrolet',
+		'pesoNetoUnitario': '0,49',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ibb.co/HXFjPN3/1603195.webp',
+		'categoria':'Maza Rueda',
+		'codigoCliente': 'ST636114',
+		'cliente':'SITEC'
+	},
+
+	{
+		'id': 'dc-mazarueda4',
+		'name': 'Ruleman Rueda Fiat Duna - Uno /Fiorino/Regattta',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '59417980',
+		'marca': 'Fiat',
+		'pesoNetoUnitario': '0,44',
+		'descripcion': 'lorem lorem',
+		'url': 'https://az768999.vo.msecnd.net/images/products/475/opt800304_636918960091451357/opt800304_large_0.jpg',
+		'categoria':'Maza Rueda',
+		'codigoCliente': 'ST300123',
+		'cliente':'SITEC'
+	},
+
+	{
+		'id': 'dc-mazarueda5',
+		'name': 'Ruleman Rueda Fiat Palio/Siena/Idea/ Uno C/Abs (Chico)',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '71714464/51758495',
+		'marca': 'Fiat',
+		'pesoNetoUnitario': '0,48',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ebayimg.com/images/g/rLIAAOSweYZhwkxZ/s-l1600.jpg',
+		'categoria':'Maza Rueda',
+		'codigoCliente': 'STXG12132',
+		'cliente':'SITEC'
+	},
+
+	{
+		'id': 'dc-mazarueda6',
+		'name': 'Maza Rueda Trasero Armada Fiat Duna/Uno/147 C/Ruleman',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '51754192/7603485',
+		'marca': 'Fiat',
+		'pesoNetoUnitario': '1,40',
+		'descripcion': 'lorem lorem',
+		'url': 'https://ricambi.alfisti.net/images/product_images/popup_images/8290_0.jpg',
+		'categoria':'Maza Rueda',
+		'codigoCliente': 'ST1189',
+		'cliente':'SITEC'
+	},
+
+	{
+		'id': 'dc-mazarueda7',
+		'name': 'Maza De Rueda Tras. Fiat Toro/Renegade 4x2 C/Abs 2018/…',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': 'VKBA 6656',
+		'marca': 'Fiat',
+		'pesoNetoUnitario': 'PENDIENTE',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_647655-MLA51818996736_102022-F.webp',
+		'categoria':'Maza Rueda',
+		'codigoCliente': 'ST6656',
+		'cliente':'SITEC'
+	},
+
+	{
+		'id': 'dc-mazarueda8',
+		'name': 'Maza De Rueda Del. Fiat Toro/Renegade 4x2 C/Abs 2018/…',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': 'VKBA 6655',
+		'marca': 'Fiat',
+		'pesoNetoUnitario': 'PENDIENTE',
+		'descripcion': 'lorem lorem',
+		'url': 'https://m.media-amazon.com/images/I/415PfAGrkBL._AC_.jpg',
+		'categoria':'Maza Rueda',
+		'codigoCliente': 'ST6655',
+		'cliente':'SITEC'
+	},
+
+	{
+		'id': 'dc-mazarueda9',
+		'name': 'Ruleman Semieje Palier Ford Ecosport - Mondeo 1.8-2.0',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': 'AV613C083AA',
+		'marca': 'Ford',
+		'pesoNetoUnitario': '0,27',
+		'descripcion': 'lorem lorem',
+		'url': 'https://cdn.spareto.com/variants/images/000/338/807/large/19945_1.jpg?1606236368',
+		'categoria':'Maza Rueda',
+		'codigoCliente': 'ST122901',
+		'cliente':'SITEC'
+	},
+
+	{
+		'id': 'dc-mazarueda10',
+		'name': 'Ruleman Rueda Ford Focus Trasera - Ecosport 4x2',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '1151005/1201568',
+		'marca': 'Ford',
+		'pesoNetoUnitario': '0,43',
+		'descripcion': 'lorem lorem',
+		'url': 'https://cdn.spareto.com/variants/images/000/338/807/large/19945_1.jpg?1606236368',
+		'categoria':'Maza Rueda',
+		'codigoCliente': 'ST801023',
+		'cliente':'SITEC'
+	},
+
+	{
+		'id': 'dc-mazarueda11',
+		'name': 'Maza De Rueda Del. Comp. Ford Ranger 4x4 S/Abs 1997/…',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '515026',
+		'marca': 'Ford',
+		'pesoNetoUnitario': 'PENDIENTE',
+		'descripcion': 'lorem lorem',
+		'url': 'https://m.media-amazon.com/images/I/61zvNVYUO7L._AC_SL1000_.jpg',
+		'categoria':'Maza Rueda',
+		'codigoCliente': 'ST930341',
+		'cliente':'SITEC'
+	},
+
+	{
+		'id': 'dc-mazarueda12',
+		'name': 'Maza De Rueda Del. Comp. Ford Ranger 4x4 C/Abs 1997/…',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': 'BR930342',
+		'marca': 'Ford',
+		'pesoNetoUnitario': 'PENDIENTE',
+		'descripcion': 'lorem lorem',
+		'url': 'https://vehicleaftermarket.skf.com/images/products/m/BR930342_1.JPG',
+		'categoria':'Maza Rueda',
+		'codigoCliente': 'MT7016',
+		'cliente':'SITEC'
+	},
+
+	{
+		'id': 'dc-mazarueda13',
+		'name': 'Maza De Rueda Tras. Comp. Honda Fit C/Abs 2003/…',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '28BWK19',
+		'marca': 'Honda',
+		'pesoNetoUnitario': 'PENDIENTE',
+		'descripcion': 'lorem lorem',
+		'url': 'https://rukminim2.flixcart.com/image/832/832/kg40k280/car-wheel-bearing/z/v/k/28bwk19-smr-original-imafwem849yphpaz.jpeg?q=70',
+		'categoria':'Maza Rueda',
+		'codigoCliente': 'STWK19',
+		'cliente':'SITEC'
+	},
+
+	{
+		'id': 'dc-mazarueda14',
+		'name': 'Maza De Rueda Tras. Comp. Honda Fit/City C/Abs 2009/…',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': 'HUB227-39',
+		'marca': 'Honda',
+		'pesoNetoUnitario': 'PENDIENTE',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ibb.co/f4k33BS/HUB227-39.jpg',
+		'categoria':'Maza Rueda',
+		'codigoCliente': 'STHUB227',
+		'cliente':'SITEC'
+	},
+
+	{
+		'id': 'dc-mazarueda15',
+		'name': 'Maza De Rueda Del. Comp. Nissan Frontier C/Abs 2010/…',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '515065',
+		'marca': 'Nissan',
+		'pesoNetoUnitario': 'PENDIENTE',
+		'descripcion': 'lorem lorem',
+		'url': 'https://m.media-amazon.com/images/I/71MvtiPySLL._AC_SL1500_.jpg',
+		'categoria':'Maza Rueda',
+		'codigoCliente': 'ST515065',
+		'cliente':'SITEC'
+	},
+
+	{
+		'id': 'dc-mazarueda16',
+		'name': 'Kit Rodillo Peugeot 405 - Partner /Citroen Berlingo',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '5131.48/5131.49',
+		'marca': 'Peugeot',
+		'pesoNetoUnitario': '0,30',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ebayimg.com/images/g/PZAAAOSwFE1kv8hL/s-l1600.jpg',
+		'categoria':'Maza Rueda',
+		'codigoCliente': 'ST68933-34',
+		'cliente':'SITEC'
+	},
+
+	{
+		'id': 'dc-mazarueda17',
+		'name': 'Maza De Rueda Tras. Comp. P,205/405 S/Abs 1994/…',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': 'TGB 12894',
+		'marca': 'Peugeot',
+		'pesoNetoUnitario': 'PENDIENTE',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_851982-MLA49718825056_042022-F.webp',
+		'categoria':'Maza Rueda',
+		'codigoCliente': 'ST12894',
+		'cliente':'SITEC'
+	},
+
+	{
+		'id': 'dc-mazarueda18',
+		'name': 'Ruleman Rueda Renault 12 -18- Delantero 72mm',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '7701460639',
+		'marca': 'Renault',
+		'pesoNetoUnitario': '0,31',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ibb.co/t3Xkgbt/7701460639.jpg',
+		'categoria':'Maza Rueda',
+		'codigoCliente': 'ST6207NV',
+		'cliente':'SITEC'
+	},
+
+	{
+		'id': 'dc-mazarueda19',
+		'name': 'Ruleman Rueda Renault 9 - 11 - 19 - Express - Clio II Trasero',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '7703090433',
+		'marca': 'Renault',
+		'pesoNetoUnitario': '0,52',
+		'descripcion': 'lorem lorem',
+		'url': 'https://m.media-amazon.com/images/I/41xZ3Z4N20L._AC_.jpg',
+		'categoria':'Maza Rueda',
+		'codigoCliente': 'STFC12025',
+		'cliente':'SITEC'
+	},
+
+	{
+		'id': 'dc-mazarueda20',
+		'name': 'Ruleman Rueda Renault 9 - 11 - 19 (H/94) Delantero',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '8660001871',
+		'marca': 'Renault',
+		'pesoNetoUnitario': '0,38',
+		'descripcion': 'lorem lorem',
+		'url': 'https://cdn.spareto.com/variants/images/000/253/417/large/05526_1.jpg?1606226557',
+		'categoria':'Maza Rueda',
+		'codigoCliente': 'STFC12033',
+		'cliente':'SITEC'
+	},
+
+	{
+		'id': 'dc-mazarueda21',
+		'name': 'Ruleman Rueda Renault Trafic 1.4-1.6-1.7-2.0-2.1 D 84mm',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '7703090199',
+		'marca': 'Renault',
+		'pesoNetoUnitario': '0,87',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_651850-MLA31922101999_082019-F.webp',
+		'categoria':'Maza Rueda',
+		'codigoCliente': 'STGB10702',
+		'cliente':'SITEC'
+	},
+
+	{
+		'id': 'dc-mazarueda22',
+		'name': 'Ruleman Maza De Rueda Renault 18 - 21 - Fuego Delantero',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '7701463231',
+		'marca': 'Renault',
+		'pesoNetoUnitario': '1,30',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ebayimg.com/images/g/m4wAAOSwWUVhJSUq/s-l1600.jpg',
+		'categoria':'Maza Rueda',
+		'codigoCliente': 'STTGB10872',
+		'cliente':'SITEC'
+	},
+
+	{
+		'id': 'dc-mazarueda23',
+		'name': 'Maza De Rueda Tras.Comp. Clio II/Kangoo S/Abs 1998/…',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': 'TGB 12095 S43',
+		'marca': 'Renault',
+		'pesoNetoUnitario': 'PENDIENTE',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_876146-MLA49155333285_022022-F.webp',
+		'categoria':'Maza Rueda',
+		'codigoCliente': 'ST3030',
+		'cliente':'SITEC'
+	},
+
+	{
+		'id': 'dc-mazarueda24',
+		'name': 'Maza De Rueda Tras. Comp. Clio/Kangoo C/Abs 2014/…',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': 'TGB 12095 S50',
+		'marca': 'Renault',
+		'pesoNetoUnitario': 'PENDIENTE',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_877748-MLA45058201177_032021-F.webp',
+		'categoria':'Maza Rueda',
+		'codigoCliente': 'ST12095',
+		'cliente':'SITEC'
+	},
+
+	{
+		'id': 'dc-mazarueda25',
+		'name': 'Maza Rueda Delantera Toyota Etios 1.5 (13/..)C/Abs 4 Izq.',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '43560-0D030',
+		'marca': 'Toyota',
+		'pesoNetoUnitario': '2,65',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_848471-MLA45852462716_052021-F.webp',
+		'categoria':'Maza Rueda',
+		'codigoCliente': 'ST43560',
+		'cliente':'SITEC'
+	},
+
+	{
+		'id': 'dc-mazarueda26',
+		'name': 'Maza Rueda Delantera Toyota Etios 1.5 (13/..) C/Abs 4 Der.',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '43550-0D010',
+		'marca': 'Toyota',
+		'pesoNetoUnitario': '2,65',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_728055-MLA51587157696_092022-F.webp',
+		'categoria':'Maza Rueda',
+		'codigoCliente': 'ST1003',
+		'cliente':'SITEC'
+	},
+
+	{
+		'id': 'dc-mazarueda27',
+		'name': 'Maza Rueda Trasera Armanda Volkswagen Gol 1.6 (08/..)',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '5U0501611',
+		'marca': 'Volkswagen',
+		'pesoNetoUnitario': '1,51',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ibb.co/kHWM5d4/5-U0501611.jpg',
+		'categoria':'Maza Rueda',
+		'codigoCliente': 'ST1005',
+		'cliente':'SITEC'
+	},
+
+	{
+		'id': 'dc-mazarueda28',
+		'name': 'Ruleman Rueda Volkswagen Gol - Gol Trend - Gacel',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': 'SKF BAH-0036',
+		'marca': 'Volkswagen',
+		'pesoNetoUnitario': 'PENDIENTE',
+		'descripcion': 'lorem lorem',
+		'url': 'https://departes.com/cdn/shop/products/rolamento-daewoo-ford-vw-skf-bah-0036vk210-D_NQ_NP_744284-MLB26098695346_092017-F_400x.jpg?v=1603262566',
+		'categoria':'Maza Rueda',
+		'codigoCliente': 'ST311396',
+		'cliente':'SITEC'
+	},
+
+	{
+		'id': 'dc-mazarueda29',
+		'name': 'Ruleman Rueda Volkswagen Polo - Golf -Caddy-Vento',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '357498625B',
+		'marca': 'Volkswagen',
+		'pesoNetoUnitario': '0,42',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ibb.co/3kVqtWf/357498625-B.jpg',
+		'categoria':'Maza Rueda',
+		'codigoCliente': 'ST311443',
+		'cliente':'SITEC'
+	},
+
+	{
+		'id': 'dc-mazarueda30',
+		'name': 'Maza De Rueda Tras. Vw Fox/Suran C/Abs 2003/…',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '801191 AD',
+		'marca': 'Volkswagen',
+		'pesoNetoUnitario': 'PENDIENTE',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_747294-MLA53703061318_022023-F.webp',
+		'categoria':'Maza Rueda',
+		'codigoCliente': 'ST0223',
+		'cliente':'SITEC'
+	},
+
+	{
+		'id': 'dc-mazarueda31',
+		'name': 'Maza De Rueda Tras. Bora/Golf Iv/Saveiro C/Abs 1998/…',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '800179 B',
+		'marca': 'Volkswagen',
+		'pesoNetoUnitario': 'PENDIENTE',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_690916-MLA25989506595_092017-F.webp',
+		'categoria':'Maza Rueda',
+		'codigoCliente': 'ST800179',
+		'cliente':'SITEC'
+	},
+
+	{
+		'id': 'dc-mazarueda32',
+		'name': 'Maza De Rueda Tras. Vw Spacefox/Suran/Fox 2003/….',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '801191 E',
+		'marca': 'Volkswagen',
+		'pesoNetoUnitario': 'PENDIENTE',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_656314-MLA42804039221_072020-F.webp',
+		'categoria':'Maza Rueda',
+		'codigoCliente': 'ST6036',
+		'cliente':'SITEC'
 	},
 
 	{
 		'id': 'dc-poleas',
-		'name': 'Polea Tensora Mini Clubman R55 Cooper',	
+		'name': 'Polea Viscosa Chevrolet S10 - Blazer 2.8 Motor M.W.M (01/04)',	
 		'publisher': 'otro',
 		'pais': 'Brasil',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '11287598833',
-		'marca': 'Mini',
+		'oem': '103 200 0322',
+		'marca': 'Chevrolet',
+		'pesoNetoUnitario': '0,80',
 		'descripcion': 'lorem lorem',
-		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_633653-MLA48359933547_112021-F.webp',
+		'url': 'https://i.ibb.co/99btNxs/103-200-0322.jpg',
 		'categoria':'Poleas',
+		'codigoCliente': 'ST405',
+		'cliente':'SITEC'
 	},
 
 	{
 		'id': 'dc-poleas2',
-		'name': 'Polea Tensora Mini Mini (R50, R53) Cooper S',	
+		'name': 'Polea Viscosa Chevrolet S10/Trailblazer 2014/….',	
 		'publisher': 'otro',
 		'pais': 'Brasil',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '7509476',
-		'marca': 'Mini',
+		'oem': '94716850',
+		'marca': 'Chevrolet',
+		'pesoNetoUnitario': '1,80',
 		'descripcion': 'lorem lorem',
-		'url': 'https://m.media-amazon.com/images/I/61hg1wFKeGL._AC_SL1500_.jpg',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_618534-MLA45658899556_042021-F.webp',
 		'categoria':'Poleas',
+		'codigoCliente': 'ST410',
+		'cliente':'SITEC'
 	},
 
 	{
 		'id': 'dc-poleas3',
-		'name': 'Polea Tensora Mini Mini R50 R53 Cooper',	
+		'name': 'Polea Viscosa Ford Ranger/ Aerostar 3.0lts V6',	
 		'publisher': 'otro',
 		'pais': 'Brasil',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '11281482199',
-		'marca': 'Mini',
+		'oem': '6L55-8A616-AA',
+		'marca': 'Ford',
+		'pesoNetoUnitario': '1,46',
 		'descripcion': 'lorem lorem',
-		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_757183-MLA69803135513_062023-F.webp',
+		'url': 'https://i.ibb.co/BgNvZs9/6-L55-8-A616-AA.jpg',
 		'categoria':'Poleas',
+		'codigoCliente': 'ST404',
+		'cliente':'SITEC'
 	},
 
 	{
 		'id': 'dc-poleas4',
-		'name': 'Polea Cigueñal Megane II/Megane III 1.9 DCI 2002/…',	
+		'name': 'Polea Viscosa Maxion 2.5/2.8 (4 Agujeros) 1997/2007',	
 		'publisher': 'otro',
 		'pais': 'Brasil',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '82 00 297 936',
-		'marca': 'Renault',
+		'oem': 'E3DZ8A616-B',
+		'marca': 'Ford',
+		'pesoNetoUnitario': '1,10',
 		'descripcion': 'lorem lorem',
-		'url': 'https://aftermarket.schaeffler.es/medias/csccProductZoom-544008810.JPG?context=bWFzdGVyfHByb2R1Y3RpbWFnZXN8Nzk4Mzl8aW1hZ2UvanBlZ3xwcm9kdWN0aW1hZ2VzL2hjMy9oZGEvOTE5MzQ5ODgzNzAyMi5qcGd8MTM0MTgxYWQxYjIxZDI5OGNkYmM4NDdkZWNhYzE2MzhmMGYyZDQzNDI2YzJkOWNiMTdmNTMyMDYzM2M3NDdjZg',
+		'url': 'https://i.ibb.co/BgNvZs9/6-L55-8-A616-AA.jpg',
 		'categoria':'Poleas',
+		'codigoCliente': 'ST403',
+		'cliente':'SITEC'
 	},
 
 	{
 		'id': 'dc-poleas5',
-		'name': 'Polea Loca Clio II 1.4 16v /1.6 16v/Megane II 1.4 16v/Clio III 1.6 16v',	
+		'name': 'Polea Viscosa Mercedes Sprinter/S10/Blazer 2.8/3.0 Mwm',	
 		'publisher': 'otro',
 		'pais': 'Brasil',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '8200051194',
-		'marca': 'Renault',
+		'oem': '1032000422',
+		'marca': 'Mercedes Benz',
+		'pesoNetoUnitario': '0,83',
 		'descripcion': 'lorem lorem',
-		'url': 'https://eurofrance24.com/media/catalog/product/cache/e730d56669a6b225923c6f3363621cbc/9/b/9b677d12a508869ee24d4791ca634da8.jpg',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_872717-MLA45169527272_032021-F.webp',
 		'categoria':'Poleas',
+		'codigoCliente': 'ST402',
+		'cliente':'SITEC'
 	},
 
 	{
 		'id': 'dc-poleas6',
-		'name': 'Polea Tensora 207 1.4 16v 2009/….',	
+		'name': 'Polea Viscosa Mitsubishi L200 4x4 2,4 96/L-300 (Oem 1320a009)',	
 		'publisher': 'otro',
 		'pais': 'Brasil',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '11287598832',
-		'marca': 'Mini',
+		'oem': 'MD 317679/1320A009',
+		'marca': 'Mitsubishi',
+		'pesoNetoUnitario': '1,17',
 		'descripcion': 'lorem lorem',
-		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_869940-MLA69264230109_052023-F.webp',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_737041-MLA27138760844_042018-F.webp',
 		'categoria':'Poleas',
+		'codigoCliente': 'ST406',
+		'cliente':'SITEC'
+	},
+
+	{
+		'id': 'dc-poleas7',
+		'name': 'Polea Viscosa Suzuki Grand Vitara Nafta/Dsl Motor L4 1800',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '17120-77E00',
+		'marca': 'Suzuki',
+		'pesoNetoUnitario': '1,23',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ibb.co/p46yL7r/17120-77-E00.jpg',
+		'categoria':'Poleas',
+		'codigoCliente': 'ST409',
+		'cliente':'SITEC'
+	},
+
+	{
+		'id': 'dc-poleas8',
+		'name': 'Polea Viscosa Toyota Hilux 3,0 2,5 Motor 1kz / 2kz / 1kd (05/..)',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '16210-67030',
+		'marca': 'Toyota',
+		'pesoNetoUnitario': '1,77',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ibb.co/jvHDDp1/16210-67030.jpg',
+		'categoria':'Poleas',
+		'codigoCliente': 'ST400',
+		'cliente':'SITEC'
+	},
+
+	{
+		'id': 'dc-poleas9',
+		'name': 'Polea Viscosa Toyota Hilux 2.4 -2.8 Lts Sr5 Diesel 95',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '16210-54130',
+		'marca': 'Toyota',
+		'pesoNetoUnitario': '1,52',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_934625-MLA25468665659_032017-F.webp',
+		'categoria':'Poleas',
+		'codigoCliente': 'ST401',
+		'cliente':'SITEC'
 	},
 
 	{
