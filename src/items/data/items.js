@@ -271,97 +271,223 @@ export const items = [
 
 	{
 		'id': 'dc-parrillasuspension',
-		'name': 'Parrilla Susp. Izq. Giulietta 2010/…',	
+		'name': 'Parrilla Susp. Del. Inf. Der. Chevrolet Cruze 2016/…',	
 		'publisher': 'otro',
 		'pais': 'Brasil',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '50513444/50521046',
-		'marca': 'Alfa Romeo',
+		'oem': '39089343',
+		'marca': 'Chevrolet',
+		'pesoNetoUnitario': '3,60',
 		'descripcion': 'lorem lorem',
-		'url': 'https://i.ebayimg.com/images/g/m0cAAOSwMBdbzWvA/s-l500.jpg',
-		'categoria':'Parrilla Suspensión'
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_739459-MLA41359737550_042020-F.webp',
+		'categoria':'Parrilla Suspensión',
+		'codigoCliente': 'ST817',
+		'cliente':'SITEC'
 	},
 
 	{
 		'id': 'dc-parrillasuspension2',
-		'name': 'Parrilla Susp. Der. Giulietta 2010/…',	
+		'name': 'Parrilla Susp. Del. Inf. Izq. Chevrolet Cruze 2016/…',	
 		'publisher': 'otro',
 		'pais': 'Brasil',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '50513442',
-		'marca': 'Alfa Romeo',
+		'oem': '39089342',
+		'marca': 'Chevrolet',
+		'pesoNetoUnitario': '3,60',
 		'descripcion': 'lorem lorem',
-		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_691523-MLA43219146857_082020-F.webp',
-		'categoria':'Parrilla Suspensión'
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_775539-MLA41359740345_042020-F.webp',
+		'categoria':'Parrilla Suspensión',
+		'codigoCliente': 'ST818',
+		'cliente':'SITEC'
 	},
 
 	{
 		'id': 'dc-parrillasuspension3',
-		'name': 'Parrilla Susp. Izq. Partner/Berlingo 2019/…',	
+		'name': 'Parrilla Suspensión Chevrolet Aveo (05/11) / Daewoo Kalos Derecha C/Rotula',	
 		'publisher': 'otro',
 		'pais': 'Brasil',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '9815014680',
-		'marca': 'Peugeot',
+		'oem': '96870466',
+		'marca': 'Chevrolet',
+		'pesoNetoUnitario': '3,00',
 		'descripcion': 'lorem lorem',
-		'url': 'https://ecooparts.com//src/img/despiece/v4nd15/14322212/000002415541.webp',
-		'categoria':'Parrilla Suspensión'
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_786143-MLA43988517527_112020-F.webp',
+		'categoria':'Parrilla Suspensión',
+		'codigoCliente': 'ST616',
+		'cliente':'SITEC'
 	},
 
 	{
 		'id': 'dc-parrillasuspension4',
-		'name': 'Parrilla Susp. Der. Partner/Berlingo 2019/…',	
+		'name': 'Parrilla Suspensión Chevrolet Aveo (05/11) / Daewoo Kalos Izquierda C/Rotula',	
 		'publisher': 'otro',
 		'pais': 'Brasil',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '9815014380',
-		'marca': 'Peugeot',
+		'oem': '96870465',
+		'marca': 'Chevrolet',
+		'pesoNetoUnitario': '3,00',
 		'descripcion': 'lorem lorem',
-		'url': 'https://ecooparts.com//src/img/despiece/v4nd15/14322212/000002415541.webp',
-		'categoria':'Parrilla Suspensión'
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_815111-MLA43988472329_112020-F.webp',
+		'categoria':'Parrilla Suspensión',
+		'codigoCliente': 'ST615',
+		'cliente':'SITEC'
 	},
 
 	{
 		'id': 'dc-parrillasuspension5',
-		'name': 'Parrilla Susp. Del. Inf. Izq. P.208/2008 2020/….',	
+		'name': 'Brazo Susp. Inf. Chevrolet Matiz/Spark/Daewoo 2005/…',	
 		'publisher': 'otro',
 		'pais': 'Brasil',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '98 316 264 80',
-		'marca': 'Peugeot',
+		'oem': '45200A-70B00',
+		'marca': 'Chevrolet',
+		'pesoNetoUnitario': '1,00',
 		'descripcion': 'lorem lorem',
-		'url': 'https://ecooparts.com//src/img/despiece/v4nd15/14322212/000002415541.webp',
-		'categoria':'Parrilla Suspensión'
+		'url': 'https://i.ebayimg.com/images/g/KQkAAOSw8qBeYlry/s-l1600.jpg',
+		'categoria':'Parrilla Suspensión',
+		'codigoCliente': 'ST880',
+		'cliente':'SITEC'
 	},
 
 	{
 		'id': 'dc-parrillasuspension6',
-		'name': 'Parrilla Susp. Del. Inf. Der. P.208/2008 2020/….',	
+		'name': 'Brazo Rotula Fiat Duna - Uno - Fiorino - Weekend - Fiorino 10mm L=290mm 88',	
 		'publisher': 'otro',
 		'pais': 'Brasil',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '98 320 392 80',
-		'marca': 'Peugeot',
+		'oem': '7591277',
+		'marca': 'Fiat',
+		'pesoNetoUnitario': '1,58',
 		'descripcion': 'lorem lorem',
-		'url': 'https://ecooparts.com//src/img/despiece/v4nd15/14322212/000002415541.webp',
-		'categoria':'Parrilla Suspensión'
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_900224-MLV50983376217_082022-F.webp',
+		'categoria':'Parrilla Suspensión',
+		'codigoCliente': 'ST646',
+		'cliente':'SITEC'
 	},
 
 	{
 		'id': 'dc-parrillasuspension7',
-		'name': 'Parrilla Izq. Peugeot 206',	
+		'name': 'Parrilla Suspensión Palio - Siena - Strada - Uno Way Fire - Mobi Der. (Sin Rotula) 2001/..',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '46454595/46777741',
+		'marca': 'Fiat',
+		'pesoNetoUnitario': '3,50',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ebayimg.com/images/g/bQ4AAOSw48tfQ5aE/s-l1600.jpg',
+		'categoria':'Parrilla Suspensión',
+		'codigoCliente': 'ST649',
+		'cliente':'SITEC'
+	},
+
+	{
+		'id': 'dc-parrillasuspension8',
+		'name': 'Parrilla Suspensión Palio - Siena - Strada - Uno Way Fire - Mobi Izq. (Sin  Rotula) 2001/..',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '46454596/46777742',
+		'marca': 'Fiat',
+		'pesoNetoUnitario': '3,50',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_702284-MLA40595413168_012020-F.webp',
+		'categoria':'Parrilla Suspensión',
+		'codigoCliente': 'ST650',
+		'cliente':'SITEC'
+	},
+
+	{
+		'id': 'dc-parrillasuspension9',
+		'name': 'Parrilla Suspensión Ranger 4x2 - 4x4 - Explorer 98/.. Superior Der. C/Rotula',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '2L5Z3082AA',
+		'marca': 'Ford',
+		'pesoNetoUnitario': '2,86',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ebayimg.com/images/g/VIQAAOSwCjFkOyQt/s-l1600.jpg',
+		'categoria':'Parrilla Suspensión',
+		'codigoCliente': 'ST670',
+		'cliente':'SITEC'
+	},
+
+	{
+		'id': 'dc-parrillasuspension10',
+		'name': 'Parrilla Suspensión Ranger 4x2 - 4x4 - Explorer 98/.. Superior Izq. C/Rotula',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '2L5Z3083AA',
+		'marca': 'Ford',
+		'pesoNetoUnitario': '2,86',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ebayimg.com/images/g/jIEAAOSwjt1i9mM7/s-l1600.jpg',
+		'categoria':'Parrilla Suspensión',
+		'codigoCliente': 'ST671',
+		'cliente':'SITEC'
+	},
+
+	{
+		'id': 'dc-parrillasuspension11',
+		'name': 'Parrilla Suspensión Del. Inf. Derecho (17/..) C/ Rotula Ford',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': 'CN153051AB',
+		'marca': 'Ford',
+		'pesoNetoUnitario': '3,11',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ebayimg.com/images/g/QR8AAOSwRzFjMmfP/s-l1600.jpg',
+		'categoria':'Parrilla Suspensión',
+		'codigoCliente': 'ST825',
+		'cliente':'SITEC'
+	},
+
+	{
+		'id': 'dc-parrillasuspension12',
+		'name': 'Parrilla Suspensión Del. Inf. Izq.  (17/..) C/ Rotula Ford',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': 'BJC08127M',
+		'marca': 'Ford',
+		'pesoNetoUnitario': '3,40',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ibb.co/LZ73sZp/bjc08127m.jpg',
+		'categoria':'Parrilla Suspensión',
+		'codigoCliente': 'ST826',
+		'cliente':'SITEC'
+	},
+
+	{
+		'id': 'dc-parrillasuspension13',
+		'name': 'Parrilla Susp. Del. Inf. Izq. Peugeot 206 1998/…',	
 		'publisher': 'otro',
 		'pais': 'Brasil',
 		'first_appearance': 'lorem lorem',
@@ -369,14 +495,17 @@ export const items = [
 
 		'oem': '3520.G8',
 		'marca': 'Peugeot',
+		'pesoNetoUnitario': '4,30',
 		'descripcion': 'lorem lorem',
 		'url': 'https://m.media-amazon.com/images/I/31kr5dH-ABL._AC_.jpg',
-		'categoria':'Parrilla Suspensión'
+		'categoria':'Parrilla Suspensión',
+		'codigoCliente': 'ST709',
+		'cliente':'SITEC'
 	},
 
 	{
-		'id': 'dc-parrillasuspension8',
-		'name': 'Parrilla Der. Peugeot 206',	
+		'id': 'dc-parrillasuspension14',
+		'name': 'Parrilla Susp. Del. Inf. Der. Peugeot 206 1998/…',	
 		'publisher': 'otro',
 		'pais': 'Brasil',
 		'first_appearance': 'lorem lorem',
@@ -384,84 +513,228 @@ export const items = [
 
 		'oem': '3521.C8',
 		'marca': 'Peugeot',
+		'pesoNetoUnitario': '4,30',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_828971-MLA31607183068_072019-F.webp',
-		'categoria':'Parrilla Suspensión'
+		'categoria':'Parrilla Suspensión',
+		'codigoCliente': 'ST710',
+		'cliente':'SITEC'
 	},
 
 	{
-		'id': 'dc-parrillasuspension9',
-		'name': 'Parrilla Suspension 206 1.6',	
+		'id': 'dc-parrillasuspension15',
+		'name': 'Brazo Rotula Der. P.205/Citroen C 15 L= 310mm',	
 		'publisher': 'otro',
 		'pais': 'Brasil',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '3521.E7',
+		'oem': '91516337',
 		'marca': 'Peugeot',
+		'pesoNetoUnitario': '2,10',
 		'descripcion': 'lorem lorem',
-		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_828971-MLA31607183068_072019-F.webp',
-		'categoria':'Parrilla Suspensión'
+		'url': 'https://i.ibb.co/Gv8G59H/91516337.webp',
+		'categoria':'Parrilla Suspensión',
+		'codigoCliente': 'ST637',
+		'cliente':'SITEC'
 	},
 
 	{
-		'id': 'dc-parrillasuspension10',
-		'name': 'Parrilla Susp. Izq. Megane /R19 1992/…',	
+		'id': 'dc-parrillasuspension16',
+		'name': 'Brazo Rotula Izq. P.205 / Citroen C 15 L= 310mm',	
 		'publisher': 'otro',
 		'pais': 'Brasil',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '7700781034',
-		'marca': 'Renault',
+		'oem': '91516336',
+		'marca': 'Peugeot',
+		'pesoNetoUnitario': '2,10',
 		'descripcion': 'lorem lorem',
-		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_828971-MLA31607183068_072019-F.webp',
-		'categoria':'Parrilla Suspensión'
+		'url': 'https://i.ibb.co/7YrgXVV/91516336.webp',
+		'categoria':'Parrilla Suspensión',
+		'codigoCliente': 'ST638',
+		'cliente':'SITEC'
 	},
 
 	{
-		'id': 'dc-parrillasuspension11',
-		'name': 'Parrilla Susp. Der. Megane /R19 1992/…',	
+		'id': 'dc-parrillasuspension17',
+		'name': 'Parrilla Suspensión Citroen Xsara - Picasso - Berlingo HDI / Peugeot Partner Derecha (Con Rotula 18 Mm) Buje Pico Pato',	
 		'publisher': 'otro',
 		'pais': 'Brasil',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '7700781035',
-		'marca': 'Renault',
+		'oem': '3521.F3',
+		'marca': 'Peugeot',
+		'pesoNetoUnitario': '3,90',
 		'descripcion': 'lorem lorem',
-		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_828971-MLA31607183068_072019-F.webp',
-		'categoria':'Parrilla Suspensión'
+		'url': 'https://i.ebayimg.com/images/g/IvoAAOSwVbdk38XE/s-l1600.jpg',
+		'categoria':'Parrilla Suspensión',
+		'codigoCliente': 'ST632',
+		'cliente':'SITEC'
 	},
 
 	{
-		'id': 'dc-parrillasuspension12',
-		'name': 'Parrilla Der. Renault Megane III/Fluence',	
+		'id': 'dc-parrillasuspension18',
+		'name': 'Parrilla Suspensión Citroen Xsara - Picasso - Berlingo HDI / Peugeot Partner Izquierda (Con Rotula 18 Mm) Buje Pico Pato',	
 		'publisher': 'otro',
 		'pais': 'Brasil',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '545008682R',
-		'marca': 'Renault',
+		'oem': '3520.J3',
+		'marca': 'Peugeot',
+		'pesoNetoUnitario': '3,90',
 		'descripcion': 'lorem lorem',
-		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_16345-MLA20119003636_062014-F.webp',
-		'categoria':'Parrilla Suspensión'
+		'url': 'https://i.ebayimg.com/images/g/YNcAAOSwRLVjMlhF/s-l1600.jpg',
+		'categoria':'Parrilla Suspensión',
+		'codigoCliente': 'ST631',
+		'cliente':'SITEC'
 	},
 
 	{
-		'id': 'dc-parrillasuspension13',
-		'name': 'Parrilla Izq. Renault Megane III/Fluence',	
+		'id': 'dc-parrillasuspension19',
+		'name': 'Parrilla Suspensión Renault Kwid Delantera Der. C/Rotula',	
 		'publisher': 'otro',
 		'pais': 'Brasil',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '545014055R',
+		'oem': '545006355R',
 		'marca': 'Renault',
+		'pesoNetoUnitario': '1,87',
 		'descripcion': 'lorem lorem',
-		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_16345-MLA20119003636_062014-F.webp',
-		'categoria':'Parrilla Suspensión'
+		'url': 'https://static.rrparts.com.br/imagens_produtos/270/8bdb5ca0-b20b-49e1-8827-84167942a6de.jpg',
+		'categoria':'Parrilla Suspensión',
+		'codigoCliente': 'ST823',
+		'cliente':'SITEC'
+	},
+
+	{
+		'id': 'dc-parrillasuspension20',
+		'name': 'Parrilla Suspensión Renault Kwid Delantera Izq. C/Rotula',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '545017342R',
+		'marca': 'Renault',
+		'pesoNetoUnitario': '1,87',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_986864-MLA29339950764_022019-F.webp',
+		'categoria':'Parrilla Suspensión',
+		'codigoCliente': 'ST824',
+		'cliente':'SITEC'
+	},
+
+	{
+		'id': 'dc-parrillasuspension21',
+		'name': 'Parrilla Suspensión Renault Logan - Sandero .../2015 Delantera Inferior Derecha C/Rotula',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '6001547519',
+		'marca': 'Renault',
+		'pesoNetoUnitario': '2,00',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_847502-MLA70828804231_082023-F.webp',
+		'categoria':'Parrilla Suspensión',
+		'codigoCliente': 'ST716',
+		'cliente':'SITEC'
+	},
+
+	{
+		'id': 'dc-parrillasuspension22',
+		'name': 'Parrilla Suspensión Renault Logan - Sandero …./2015 Delantera Inferior Izquierda C/Rotula',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '6001547520',
+		'marca': 'Renault',
+		'pesoNetoUnitario': '2,00',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ibb.co/hHpxKNr/6001547520.jpg',
+		'categoria':'Parrilla Suspensión',
+		'codigoCliente': 'ST715',
+		'cliente':'SITEC'
+	},
+
+	{
+		'id': 'dc-parrillasuspension23',
+		'name': 'Parrilla Suspensión Toyota Etios Delantera Der. C/Rotula',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '48068-0D081',
+		'marca': 'Toyota',
+		'pesoNetoUnitario': '3,45',
+		'descripcion': 'lorem lorem',
+		'url': 'https://spanish.carcontrolarm.com/photo/ps34078599-control_arm_on_toyota_yaris_48068_09230_48068_09240_48068_0d080_48068_0d081.jpg',
+		'categoria':'Parrilla Suspensión',
+		'codigoCliente': 'ST821',
+		'cliente':'SITEC'
+	},
+
+	{
+		'id': 'dc-parrillasuspension24',
+		'name': 'Parrilla Suspensión Toyota Etios Delantera Izq. C/Rotula',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '48069-0D081',
+		'marca': 'Toyota',
+		'pesoNetoUnitario': '3,45',
+		'descripcion': 'lorem lorem',
+		'url': 'https://spanish.carcontrolarm.com/photo/ps34078621-control_arm_in_toyota_yaris_48069_09230_48069_09240_48069_0d080_48069_0d081.jpg',
+		'categoria':'Parrilla Suspensión',
+		'codigoCliente': 'ST822',
+		'cliente':'SITEC'
+	},
+
+	{
+		'id': 'dc-parrillasuspension25',
+		'name': 'Parrilla Suspensión Volkswagen Fox - Cross Fox - Suran (04/..) / Seat Ibiza Derecha/Izquierda S/Rotula',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '6Q0407151E',
+		'marca': 'Volkswagen',
+		'pesoNetoUnitario': '2,23',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ibb.co/s1V94vh/6-Q0407151-E.jpg',
+		'categoria':'Parrilla Suspensión',
+		'codigoCliente': 'ST748',
+		'cliente':'SITEC'
+	},
+
+	{
+		'id': 'dc-parrillasuspension26',
+		'name': 'Parrilla Suspensión Volkswagen Gol Agujero 12mm Der/Izq S/Rotula 93/2000',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '304407153',
+		'marca': 'Volkswagen',
+		'pesoNetoUnitario': 'PENDIENTE',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_974778-MLA28607543926_112018-F.webp',
+		'categoria':'Parrilla Suspensión',
+		'codigoCliente': 'ST742',
+		'cliente':'SITEC'
 	},
 
 	{
@@ -1790,6 +2063,222 @@ export const items = [
 		'url': 'https://img.xentra.com.mx/autopartescimaco/img/productos/TERMINAL%20EXTERIOR%20L/1J0-422-811/1J0-422-811_842_12_12_22_01_51.webp',
 		'categoria':'Extremo Dirección',
 		'codigoCliente': 'ST807',
+		'cliente':'SITEC'
+	},
+
+	{
+		'id': 'dc-portamazas',
+		'name': 'Montante Portamaza Peugeot 206 Motor 1.6 16v Disco Vent.',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '3647.76',
+		'marca': 'Peugeot',
+		'pesoNetoUnitario': 'PENDIENTE',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ibb.co/9qxNnb9/364776.webp',
+		'categoria':'Portamazas',
+		'codigoCliente': 'ST574',
+		'cliente':'SITEC'
+	},
+
+	{
+		'id': 'dc-portamazas2',
+		'name': 'Montante Portamaza Peugeot 206 Motor 1.4 Disco Solido (72mm) Lado Izquierdo',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '3646.52/3646.57',
+		'marca': 'Peugeot',
+		'pesoNetoUnitario': 'PENDIENTE',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_683587-MLA47016512583_082021-F.webp',
+		'categoria':'Portamazas',
+		'codigoCliente': 'ST575',
+		'cliente':'SITEC'
+	},
+
+	{
+		'id': 'dc-portamazas3',
+		'name': 'Montante Portamaza Peugeot 306/Partner Rotula 16mm',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '3646.53/54',
+		'marca': 'Peugeot',
+		'pesoNetoUnitario': '3,30',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ebayimg.com/images/g/qCoAAOSwL29h9TFh/s-l1600.jpg',
+		'categoria':'Portamazas',
+		'codigoCliente': 'ST581',
+		'cliente':'SITEC'
+	},
+
+	{
+		'id': 'dc-portamazas4',
+		'name': 'Montante Portamaza Peugeot 306/Partner Rotula 16mm',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '3647.53/54',
+		'marca': 'Peugeot',
+		'pesoNetoUnitario': '3,30',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ibb.co/MMn41pf/3647-53.jpg',
+		'categoria':'Portamazas',
+		'codigoCliente': 'ST580',
+		'cliente':'SITEC'
+	},
+
+	{
+		'id': 'dc-portamazas5',
+		'name': 'Montante Portamaza Peugeot 206 Motor 1.6 16v Disco Vent.',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '3646.76',
+		'marca': 'Peugeot',
+		'pesoNetoUnitario': '3,38',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ibb.co/Jqx7SMB/3646-76.jpg',
+		'categoria':'Portamazas',
+		'codigoCliente': 'ST594',
+		'cliente':'SITEC'
+	},
+
+	{
+		'id': 'dc-portamazas6',
+		'name': 'Montante Portamaza Peugeot 206 Motor 1.4 Disco Sólido',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '3647.52/3647.57',
+		'marca': 'Peugeot',
+		'pesoNetoUnitario': '3,38',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_797809-MLA49920870406_052022-F.webp',
+		'categoria':'Portamazas',
+		'codigoCliente': 'ST595',
+		'cliente':'SITEC'
+	},
+
+	{
+		'id': 'dc-portamazas7',
+		'name': 'Montante Portamaza Renault Logan/Sandero II Lado Izq.',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '400150083R',
+		'marca': 'Renault',
+		'pesoNetoUnitario': '3,88',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_660003-MLA68893901978_042023-F.webp',
+		'categoria':'Portamazas',
+		'codigoCliente': 'ST596',
+		'cliente':'SITEC'
+	},
+
+	{
+		'id': 'dc-portamazas8',
+		'name': 'Montante Portamaza Renault Logan II /Sandero II Lado Der.',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '400151018R',
+		'marca': 'Renault',
+		'pesoNetoUnitario': '3,88',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ebayimg.com/images/g/b5sAAOSw3LxfafI-/s-l1600.jpg',
+		'categoria':'Portamazas',
+		'codigoCliente': 'ST597',
+		'cliente':'SITEC'
+	},
+
+	{
+		'id': 'dc-portamazas9',
+		'name': 'Montante Portamaza Renault Clio-Kangoo Lado Izq. Dsl',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '8200207307',
+		'marca': 'Renault',
+		'pesoNetoUnitario': '3,50',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ibb.co/rG5R5Nr/8200207307.jpg',
+		'categoria':'Portamazas',
+		'codigoCliente': 'ST582',
+		'cliente':'SITEC'
+	},
+
+	{
+		'id': 'dc-portamazas10',
+		'name': 'Montante Portamaza Renault Clio-Kangoo Lado Der. Dsl',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '8200207313',
+		'marca': 'Renault',
+		'pesoNetoUnitario': '3,60',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ebayimg.com/images/g/rusAAOSwWmZhES~6/s-l1600.jpg',
+		'categoria':'Portamazas',
+		'codigoCliente': 'ST583',
+		'cliente':'SITEC'
+	},
+
+	{
+		'id': 'dc-portamazas11',
+		'name': 'Montante Portamaza Toyota Hilux 4x4 Izquierdo (05/16)',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '43212-0K030',
+		'marca': 'Toyota',
+		'pesoNetoUnitario': '3,80',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ibb.co/5cpm76M/43212-0-K030.jpg',
+		'categoria':'Portamazas',
+		'codigoCliente': 'ST588',
+		'cliente':'SITEC'
+	},
+
+	{
+		'id': 'dc-portamazas12',
+		'name': 'Montante Portamaza Toyota Hilux 4x4 Derecho (05/16)',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '43211-0K040',
+		'marca': 'Toyota',
+		'pesoNetoUnitario': '3,80',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ibb.co/kBrd4dB/43211-0-K040.webp',
+		'categoria':'Portamazas',
+		'codigoCliente': 'ST589',
 		'cliente':'SITEC'
 	},
 ]
