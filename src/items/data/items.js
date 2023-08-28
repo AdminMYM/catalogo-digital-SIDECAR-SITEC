@@ -1477,17 +1477,668 @@ export const items = [
 
 	{
 		'id': 'dc-rotulasuspension',
-		'name': 'Rotula Susp. Partner/Berlingo 16,7 Mm 2019/…',	
+		'name': 'Rotula Chevrolet Corsa - Combo - Classic - Tigra - Wagon 98',	
 		'publisher': 'otro',
 		'pais': 'Brasil',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '9831088880/9831692180',
-		'marca': 'Peugeot',
+		'oem': '1603202',
+		'marca': 'Chevrolet',
+		'pesoNetoUnitario': '0,76',
 		'descripcion': 'lorem lorem',
-		'url': 'https://i.ibb.co/t8f1y56/rotulasusp.jpg',
+		'url': 'https://www.mirefaccion.com.mx/cdn/shop/products/new_1603202_syd_large_5cf8aa43-f2c5-46df-8730-df4fc4b2427f_1024x1024@2x.jpg?v=1609836960',
 		'categoria':'Rótula Suspensión',
+		'codigoCliente': 'ST749',
+		'cliente':'SITEC'
+	},
+
+	{
+		'id': 'dc-rotulasuspension2',
+		'name': 'Rotula Chevrolet Blazer - S10 4x4 (95/11) Superior',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '17980735',
+		'marca': 'Chevrolet',
+		'pesoNetoUnitario': '1,03',
+		'descripcion': 'lorem lorem',
+		'url': 'http://cvrepuestos.com/shop/wp-content/uploads/2022/07/M-1460.jpg',
+		'categoria':'Rótula Suspensión',
+		'codigoCliente': 'ST801',
+		'cliente':'SITEC'
+	},
+
+	{
+		'id': 'dc-rotulasuspension3',
+		'name': 'Rotula Chevrolet Blazer - S10 4x2-4x4 (95/11) Inferior',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '17980955/93364439',
+		'marca': 'Chevrolet',
+		'pesoNetoUnitario': '1,09',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ibb.co/KznVXQT/17980955.jpg',
+		'categoria':'Rótula Suspensión',
+		'codigoCliente': 'ST812',
+		'cliente':'SITEC'
+	},
+
+	{
+		'id': 'dc-rotulasuspension4',
+		'name': 'Rotula Chevrolet Pick Up/Brava/C 10 63/78 Diam.50.50mm Inf.',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '9758255',
+		'marca': 'Chevrolet',
+		'pesoNetoUnitario': '0,49',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ibb.co/KznVXQT/17980955.jpg',
+		'categoria':'Rótula Suspensión',
+		'codigoCliente': 'ST813',
+		'cliente':'SITEC'
+	},
+
+	{
+		'id': 'dc-rotulasuspension5',
+		'name': 'Rotula Chevrolet Cobalt - Onix - Prisma - Sonic - Spin',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '95017034',
+		'marca': 'Chevrolet',
+		'pesoNetoUnitario': '0,40',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_987430-MLA53160502911_012023-F.webp',
+		'categoria':'Rótula Suspensión',
+		'codigoCliente': 'ST834',
+		'cliente':'SITEC'
+	},
+
+	{
+		'id': 'dc-rotulasuspension6',
+		'name': 'Rotula Susp. Corsa Classic - Wagon - Celta/Prisma (10/..)',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '94740331',
+		'marca': 'Chevrolet',
+		'pesoNetoUnitario': '0,84',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_618936-MLA31932460240_082019-F.webp',
+		'categoria':'Rótula Suspensión',
+		'codigoCliente': 'ST805',
+		'cliente':'SITEC'
+	},
+
+	{
+		'id': 'dc-rotulasuspension7',
+		'name': 'Rotula Fiat Palio/Weekend/Siena 96/99 Inferior (Cono 14mm)',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '46437959',
+		'marca': 'Fiat',
+		'pesoNetoUnitario': '0,40',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ebayimg.com/images/g/7jQAAOSwPxpizqoR/s-l500.jpg',
+		'categoria':'Rótula Suspensión',
+		'codigoCliente': 'ST752',
+		'cliente':'SITEC'
+	},
+
+	{
+		'id': 'dc-rotulasuspension8',
+		'name': 'Rotula Fiat Ducato 94/02 /Peugeot Boxer 96/02',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '1302368080',
+		'marca': 'Fiat',
+		'pesoNetoUnitario': '0,85',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ebayimg.com/images/g/JdMAAOSwjFleS80u/s-l500.png',
+		'categoria':'Rótula Suspensión',
+		'codigoCliente': 'ST753',
+		'cliente':'SITEC'
+	},
+
+	{
+		'id': 'dc-rotulasuspension9',
+		'name': 'Rotula Fiat Palio - Weekend - Siena - Strada 01/. Inclinada',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '46842581',
+		'marca': 'Fiat',
+		'pesoNetoUnitario': '0,50',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ibb.co/K9wJhnr/46842581.webp',
+		'categoria':'Rótula Suspensión',
+		'codigoCliente': 'ST754',
+		'cliente':'SITEC'
+	},
+
+	{
+		'id': 'dc-rotulasuspension10',
+		'name': 'Rotula Fiat Palio - Idea - Strada - Adventure (06/..) Inf. Der.',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '7086251',
+		'marca': 'Fiat',
+		'pesoNetoUnitario': '0,38',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_652137-MLA70730594374_072023-F.webp',
+		'categoria':'Rótula Suspensión',
+		'codigoCliente': 'ST802',
+		'cliente':'SITEC'
+	},
+
+	{
+		'id': 'dc-rotulasuspension11',
+		'name': 'Rotula Fiat Palio - Idea - Strada - Adventure (06/..) Inf. Izq.',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '7086252',
+		'marca': 'Fiat',
+		'pesoNetoUnitario': '0,38',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_962998-MLA70761125097_072023-F.webp',
+		'categoria':'Rótula Suspensión',
+		'codigoCliente': 'ST803',
+		'cliente':'SITEC'
+	},
+
+	{
+		'id': 'dc-rotulasuspension12',
+		'name': 'Rotula Fiat Punto - Linea - Qubo (08/..) / Alfa Romeo Mito Inf.',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '51783057/51874461',
+		'marca': 'Fiat',
+		'pesoNetoUnitario': '0,56',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_962998-MLA70761125097_072023-F.webp',
+		'categoria':'Rótula Suspensión',
+		'codigoCliente': 'ST814',
+		'cliente':'SITEC'
+	},
+
+	{
+		'id': 'dc-rotulasuspension13',
+		'name': 'Rotula Ford Escort - Xr3 - Rural - Orion (97/03)',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '1033616',
+		'marca': 'Ford',
+		'pesoNetoUnitario': '0,55',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ibb.co/WnQ0RnY/1033616.jpg',
+		'categoria':'Rótula Suspensión',
+		'codigoCliente': 'ST775',
+		'cliente':'SITEC'
+	},
+
+	{
+		'id': 'dc-rotulasuspension14',
+		'name': 'Rotula Ford Ranger 4x2 4x4 - Explorer (98/..) Inferior',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': 'F57Z-3050-BB',
+		'marca': 'Ford',
+		'pesoNetoUnitario': '1,09',
+		'descripcion': 'lorem lorem',
+		'url': 'https://aftermarket.schaeffler.es/medias/csccProductZoom-825035910.JPG?context=bWFzdGVyfHByb2R1Y3RpbWFnZXN8Njk1MDd8aW1hZ2UvanBlZ3xwcm9kdWN0aW1hZ2VzL2gwOC9oNTAvOTIwMzQxNjkyNDE5MC5qcGd8YzcyMjQ1NDlhZWU4ZmQwNTdhN2Q1MzRiYzAzMDVkY2VkNDMyOGY2OTIzMmUwZjUwYjZlODhiMTI5ZjkyNjgzMg',
+		'categoria':'Rótula Suspensión',
+		'codigoCliente': 'ST804',
+		'cliente':'SITEC'
+	},
+
+	{
+		'id': 'dc-rotulasuspension15',
+		'name': 'Rotula Ford Ecosport 4x2-4x4 (03/..) - Fiesta - Max',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '25653395-AA',
+		'marca': 'Ford',
+		'pesoNetoUnitario': '0,65',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ibb.co/9cd39g0/25653395-AA.jpg',
+		'categoria':'Rótula Suspensión',
+		'codigoCliente': 'ST815',
+		'cliente':'SITEC'
+	},
+
+	{
+		'id': 'dc-rotulasuspension16',
+		'name': 'Rotula Ford Fiesta - Courier (89/94) - Ka (96/07) Inferior',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '94FB-3B376-AB',
+		'marca': 'Ford',
+		'pesoNetoUnitario': '0,68',
+		'descripcion': 'lorem lorem',
+		'url': 'https://www.kmotorshop.com/document/tecdoc/161/0161JBJ145.JPG',
+		'categoria':'Rótula Suspensión',
+		'codigoCliente': 'ST816',
+		'cliente':'SITEC'
+	},
+
+	{
+		'id': 'dc-rotulasuspension17',
+		'name': 'Rotula Ford Ranger 4x4 Superior (13/..) (Ø 46.05mm)',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': 'EB3C3078C1B',
+		'marca': 'Ford',
+		'pesoNetoUnitario': '0,71',
+		'descripcion': 'lorem lorem',
+		'url': 'https://static3.tcdn.com.br/img/img_prod/592590/pivo_suspensao_superior_first_ford_ranger_13_orig_eb3c3078c1b_4367811_1_20201211142943.jpg',
+		'categoria':'Rótula Suspensión',
+		'codigoCliente': 'ST858',
+		'cliente':'SITEC'
+	},
+
+	{
+		'id': 'dc-rotulasuspension18',
+		'name': 'Rotula Ford Focus Focus II Focus III - Cmax Inf. Der. 2014/…',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '1 702 970',
+		'marca': 'Ford',
+		'pesoNetoUnitario': '0,60',
+		'descripcion': 'lorem lorem',
+		'url': 'https://mobiland.auto/upload/iblock/59a/k1kn2zckflk9a0vgfscv5nex437rcjwc.jpeg',
+		'categoria':'Rótula Suspensión',
+		'codigoCliente': 'ST860',
+		'cliente':'SITEC'
+	},
+
+	{
+		'id': 'dc-rotulasuspension19',
+		'name': 'Rotula Ford Focus Focus II Focus III - Cmax Inf. Izq. 2014/…',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': 'BV613-A424A-AB',
+		'marca': 'Ford',
+		'pesoNetoUnitario': '0,60',
+		'descripcion': 'lorem lorem',
+		'url': 'https://m.media-amazon.com/images/I/810mTITAymL._AC_SL1500_.jpg',
+		'categoria':'Rótula Suspensión',
+		'codigoCliente': 'ST861',
+		'cliente':'SITEC'
+	},
+
+	{
+		'id': 'dc-rotulasuspension20',
+		'name': 'Rotula Peugeot 306 93/98 / Citroen Zx - Berlingo - Xsara',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '3640.43',
+		'marca': 'Peugeot',
+		'pesoNetoUnitario': '0,40',
+		'descripcion': 'lorem lorem',
+		'url': 'https://www.origine-pieces-auto.com/16209-large_default/peugeot-citroen-lower-front-suspension-ball-joint.jpg',
+		'categoria':'Rótula Suspensión',
+		'codigoCliente': 'ST750',
+		'cliente':'SITEC'
+	},
+
+	{
+		'id': 'dc-rotulasuspension21',
+		'name': 'Rotula Peugeot 306 - Partner 99/08 / Citroen Zx - Xsara',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '3640.50',
+		'marca': 'Peugeot',
+		'pesoNetoUnitario': '0,58',
+		'descripcion': 'lorem lorem',
+		'url': 'https://www.fitinpart.sg/image/data/products/bd0a89f8980a7a79f32ef82eefcfd527.JPG',
+		'categoria':'Rótula Suspensión',
+		'codigoCliente': 'ST751',
+		'cliente':'SITEC'
+	},
+
+	{
+		'id': 'dc-rotulasuspension22',
+		'name': 'Rotula Peugeot 405/Break 88/96 Inferior (Rm. 38x1.50)',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '3640.21',
+		'marca': 'Peugeot',
+		'pesoNetoUnitario': '0,40',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ibb.co/HXYtxPj/3640-21.jpg',
+		'categoria':'Rótula Suspensión',
+		'codigoCliente': 'ST756',
+		'cliente':'SITEC'
+	},
+
+	{
+		'id': 'dc-rotulasuspension23',
+		'name': 'Rotula Peugeot 504/505/Pick Up/Familiar 81/01 Inf.',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '3640.15',
+		'marca': 'Peugeot',
+		'pesoNetoUnitario': '0,41',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ibb.co/BfpTxrt/3640-15.jpg',
+		'categoria':'Rótula Suspensión',
+		'codigoCliente': 'ST757',
+		'cliente':'SITEC'
+	},
+
+	{
+		'id': 'dc-rotulasuspension24',
+		'name': 'Rotula Peugeot 306 93/01 Inferior Pivote 16mm (Larga)',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '3640.30',
+		'marca': 'Peugeot',
+		'pesoNetoUnitario': '0,40',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ibb.co/hLvpsnj/3640-30.jpg',
+		'categoria':'Rótula Suspensión',
+		'codigoCliente': 'ST758',
+		'cliente':'SITEC'
+	},
+
+	{
+		'id': 'dc-rotulasuspension25',
+		'name': 'Rotula Peugeot 208/ Citroen C3 II - C3 Picasso (Rm 38x1.5) Inf.',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '3640.77',
+		'marca': 'Peugeot',
+		'pesoNetoUnitario': '0,58',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_649275-MLA53055651054_122022-F.webp',
+		'categoria':'Rótula Suspensión',
+		'codigoCliente': 'ST862',
+		'cliente':'SITEC'
+	},
+
+	{
+		'id': 'dc-rotulasuspension26',
+		'name': 'Rotula Renault 18/Fuego/Break 81/95 Inferior',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '7701461331',
+		'marca': 'Renault',
+		'pesoNetoUnitario': '0,55',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ibb.co/KLDtcJc/7701461331.jpg',
+		'categoria':'Rótula Suspensión',
+		'codigoCliente': 'ST759',
+		'cliente':'SITEC'
+	},
+
+	{
+		'id': 'dc-rotulasuspension27',
+		'name': 'Rotula Renault 12/Dacia 71/94 Superior Ambas Manos',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '7701455906',
+		'marca': 'Renault',
+		'pesoNetoUnitario': '0,49',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ibb.co/gg45zKf/7701455906.jpg',
+		'categoria':'Rótula Suspensión',
+		'codigoCliente': 'ST760',
+		'cliente':'SITEC'
+	},
+
+	{
+		'id': 'dc-rotulasuspension28',
+		'name': 'Rotula Renault 19 92/00  - Clio 92/.. - Express 98/00',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '7701462182',
+		'marca': 'Renault',
+		'pesoNetoUnitario': '0,55',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ibb.co/vmmzdH5/7701462182.jpg',
+		'categoria':'Rótula Suspensión',
+		'codigoCliente': 'ST761',
+		'cliente':'SITEC'
+	},
+
+	{
+		'id': 'dc-rotulasuspension29',
+		'name': 'Rotula Renault 12/Dacia 71/94 Inferior Ambas Manos',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '7701455905',
+		'marca': 'Renault',
+		'pesoNetoUnitario': '0,55',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ibb.co/R4XFMQB/7701455905.jpg',
+		'categoria':'Rótula Suspensión',
+		'codigoCliente': 'ST763',
+		'cliente':'SITEC'
+	},
+
+	{
+		'id': 'dc-rotulasuspension30',
+		'name': 'Rotula Toyota Hilux - Sw4 - Runner 05/.. Inferior 43.8mm',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '43330-09510',
+		'marca': 'Toyota',
+		'pesoNetoUnitario': '0,72',
+		'descripcion': 'lorem lorem',
+		'url': 'https://safezoneautospares.com/cdn/shop/products/43330-09510-removebg-preview_500x.png?v=1634212339',
+		'categoria':'Rótula Suspensión',
+		'codigoCliente': 'ST830',
+		'cliente':'SITEC'
+	},
+
+	{
+		'id': 'dc-rotulasuspension31',
+		'name': 'Rotula Volkswagen Senda/Gol 97/07 Recta Pivote 17mm',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '377407365-C',
+		'marca': 'Volkswagen',
+		'pesoNetoUnitario': '0,50',
+		'descripcion': 'lorem lorem',
+		'url': 'https://www.mirefaccion.com.mx/cdn/shop/products/new_377_407_365_c_syd_large_1d69b344-a915-4e1e-90a9-2465db075dc4_1024x1024@2x.jpg?v=1609828562',
+		'categoria':'Rótula Suspensión',
+		'codigoCliente': 'ST770',
+		'cliente':'SITEC'
+	},
+
+	{
+		'id': 'dc-rotulasuspension32',
+		'name': 'Rotula Volkswagen Senda/Gol/Saveiro 97/07 Inferior Der.',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '377407366-B',
+		'marca': 'Volkswagen',
+		'pesoNetoUnitario': '0,55',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_989955-MLA27226996046_042018-F.webp',
+		'categoria':'Rótula Suspensión',
+		'codigoCliente': 'ST772',
+		'cliente':'SITEC'
+	},
+
+	{
+		'id': 'dc-rotulasuspension33',
+		'name': 'Rotula Volkswagen Senda - Saveiro 93/95 Izq. Pivote 15mm',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '305407365-5',
+		'marca': 'Volkswagen',
+		'pesoNetoUnitario': '0,64',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_656534-MLA50202095998_062022-F.webp',
+		'categoria':'Rótula Suspensión',
+		'codigoCliente': 'ST773',
+		'cliente':'SITEC'
+	},
+
+	{
+		'id': 'dc-rotulasuspension34',
+		'name': 'Rotula Volkswagen Senda - Gol - Saveiro 97/07 Inf. Izq Direc.',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '377407365-B',
+		'marca': 'Volkswagen',
+		'pesoNetoUnitario': '0,55',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_985732-MLA54125557645_032023-F.webp',
+		'categoria':'Rótula Suspensión',
+		'codigoCliente': 'ST774',
+		'cliente':'SITEC'
+	},
+
+	{
+		'id': 'dc-rotulasuspension35',
+		'name': 'Rotula Volkswagen Polo - Caddy (96/07) - Golf (83/98) Inf.',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '357407365',
+		'marca': 'Volkswagen',
+		'pesoNetoUnitario': '0,43',
+		'descripcion': 'lorem lorem',
+		'url': 'https://www.europaparts.com/media/catalog/product/cache/abf26066ecd46d435ee2486b4a5aee03/3/5/357407365.jpg',
+		'categoria':'Rótula Suspensión',
+		'codigoCliente': 'ST776',
+		'cliente':'SITEC'
+	},
+
+	{
+		'id': 'dc-rotulasuspension36',
+		'name': 'Rotula Volkswagen Amarok 4x4 2.0TDI Inferior Amb Manos',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '2H0 407 151 A',
+		'marca': 'Volkswagen',
+		'pesoNetoUnitario': '0,45',
+		'descripcion': 'lorem lorem',
+		'url': 'https://www.fitinpart.sg/image/data/products/1afd0858dd00e33803cbfc52be42639b.jpg',
+		'categoria':'Rótula Suspensión',
+		'codigoCliente': 'ST863',
+		'cliente':'SITEC'
+	},
+
+	{
+		'id': 'dc-rotulasuspension37',
+		'name': 'Rotula Volkswagen Amarok 4x4 2.0TDI Superior Amb Manos',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '2H0 407 022 B',
+		'marca': 'Volkswagen',
+		'pesoNetoUnitario': '0,48',
+		'descripcion': 'lorem lorem',
+		'url': 'https://cdn.spareto.com/variants/images/000/659/289/large/converted-20230217-991433-6owk00.jpg?1676651382',
+		'categoria':'Rótula Suspensión',
+		'codigoCliente': 'ST864',
+		'cliente':'SITEC'
 	},
 
 	{
