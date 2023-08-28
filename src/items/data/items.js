@@ -1505,7 +1505,7 @@ export const items = [
 		'marca': 'Chevrolet',
 		'pesoNetoUnitario': '1,03',
 		'descripcion': 'lorem lorem',
-		'url': 'https://i.ibb.co/jW1SK5r/17980735.jpg',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_865642-MLB47311533374_082021-F.webp',
 		'categoria':'Rótula Suspensión',
 		'codigoCliente': 'ST801',
 		'cliente':'SITEC'
