@@ -1505,7 +1505,7 @@ export const items = [
 		'marca': 'Chevrolet',
 		'pesoNetoUnitario': '1,03',
 		'descripcion': 'lorem lorem',
-		'url': 'http://cvrepuestos.com/shop/wp-content/uploads/2022/07/M-1460.jpg',
+		'url': 'https://i.ibb.co/jW1SK5r/17980735.jpg',
 		'categoria':'Rótula Suspensión',
 		'codigoCliente': 'ST801',
 		'cliente':'SITEC'
