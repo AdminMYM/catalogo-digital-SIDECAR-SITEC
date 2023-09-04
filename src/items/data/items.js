@@ -3,7 +3,7 @@ export const items = [
 		'id': 'dc-electroventilador',
 		'name': 'Electroventilador Chevrolet Corsa 1.4 Nafta 94-96- 1.6',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -21,7 +21,7 @@ export const items = [
 		'id': 'dc-electroventilador2',
 		'name': 'Electroventilador Fiat Palio Fire - Uno 1.3 Mpi',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -39,7 +39,7 @@ export const items = [
 		'id': 'dc-electroventilador3',
 		'name': 'Electroventilador Fiat Duna - Uno - 147 - Regatta Diesel',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -57,7 +57,7 @@ export const items = [
 		'id': 'dc-electroventilador4',
 		'name': 'Electroventilador Fiat Palio III Fire 1.4 (09/18)Sin A/A',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -75,7 +75,7 @@ export const items = [
 		'id': 'dc-electroventilador5',
 		'name': 'Electroventilador Fiesta 1.3 (94/99) Max 1.4 TDI (02/11)',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -93,7 +93,7 @@ export const items = [
 		'id': 'dc-electroventilador6',
 		'name': 'Electroventilador Citroen Berlingo 1.4- Xsara 1.8 16v-1.9d',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -111,7 +111,7 @@ export const items = [
 		'id': 'dc-electroventilador7',
 		'name': 'Electroventilador Citroen Berlingo 1.4 1.8',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -129,7 +129,7 @@ export const items = [
 		'id': 'dc-electroventilador8',
 		'name': 'Electroventilador P.307 1.6HDI (05-09) -307 2.0 HDI (06-12)',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -147,7 +147,7 @@ export const items = [
 		'id': 'dc-electroventilador9',
 		'name': 'Electroventilador P.206 1.6/1.9d-2.0 HDI- GTI 2.0 N/207 1.6',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -165,7 +165,7 @@ export const items = [
 		'id': 'dc-electroventilador10',
 		'name': 'Electroventilador Duster 2.0 (11/18) Megane 1.6-1.9td- Clio II',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -183,7 +183,7 @@ export const items = [
 		'id': 'dc-electroventilador11',
 		'name': 'Electroventilador Clio II 1.2 (99/11) 1.6/1.9d (99/03)',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -201,7 +201,7 @@ export const items = [
 		'id': 'dc-electroventilador12',
 		'name': 'Electroventilador Volkswagen Polo Classic 1.6 - 1.8 Nafta',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -219,7 +219,7 @@ export const items = [
 		'id': 'dc-electroventilador13',
 		'name': 'Electroventilador Volkswagen Fox - Suran - Gol Trend',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -237,7 +237,7 @@ export const items = [
 		'id': 'dc-electroventilador14',
 		'name': 'Electroventilador Astra - Corsa/ Volkswagen Gol 3rd Gen.',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -255,7 +255,7 @@ export const items = [
 		'id': 'dc-electroventilador15',
 		'name': 'Electroventilador  Gol 3rd Generation - Pointer/Saveiro',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -273,7 +273,7 @@ export const items = [
 		'id': 'dc-parrillasuspension',
 		'name': 'Parrilla Susp. Del. Inf. Der. Chevrolet Cruze 2016/…',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -291,7 +291,7 @@ export const items = [
 		'id': 'dc-parrillasuspension2',
 		'name': 'Parrilla Susp. Del. Inf. Izq. Chevrolet Cruze 2016/…',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -309,7 +309,7 @@ export const items = [
 		'id': 'dc-parrillasuspension3',
 		'name': 'Parrilla Suspensión Chevrolet Aveo (05/11) / Daewoo Kalos Derecha C/Rotula',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -327,7 +327,7 @@ export const items = [
 		'id': 'dc-parrillasuspension4',
 		'name': 'Parrilla Suspensión Chevrolet Aveo (05/11) / Daewoo Kalos Izquierda C/Rotula',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -345,7 +345,7 @@ export const items = [
 		'id': 'dc-parrillasuspension5',
 		'name': 'Brazo Susp. Inf. Chevrolet Matiz/Spark/Daewoo 2005/…',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -363,7 +363,7 @@ export const items = [
 		'id': 'dc-parrillasuspension6',
 		'name': 'Brazo Rotula Fiat Duna - Uno - Fiorino - Weekend - Fiorino 10mm L=290mm 88',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -381,7 +381,7 @@ export const items = [
 		'id': 'dc-parrillasuspension7',
 		'name': 'Parrilla Suspensión Palio - Siena - Strada - Uno Way Fire - Mobi Der. (Sin Rotula) 2001/..',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -399,7 +399,7 @@ export const items = [
 		'id': 'dc-parrillasuspension8',
 		'name': 'Parrilla Suspensión Palio - Siena - Strada - Uno Way Fire - Mobi Izq. (Sin  Rotula) 2001/..',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -417,7 +417,7 @@ export const items = [
 		'id': 'dc-parrillasuspension9',
 		'name': 'Parrilla Suspensión Ranger 4x2 - 4x4 - Explorer 98/.. Superior Der. C/Rotula',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -435,7 +435,7 @@ export const items = [
 		'id': 'dc-parrillasuspension10',
 		'name': 'Parrilla Suspensión Ranger 4x2 - 4x4 - Explorer 98/.. Superior Izq. C/Rotula',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -453,7 +453,7 @@ export const items = [
 		'id': 'dc-parrillasuspension11',
 		'name': 'Parrilla Suspensión Del. Inf. Derecho (17/..) C/ Rotula Ford',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -471,7 +471,7 @@ export const items = [
 		'id': 'dc-parrillasuspension12',
 		'name': 'Parrilla Suspensión Del. Inf. Izq.  (17/..) C/ Rotula Ford',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -489,7 +489,7 @@ export const items = [
 		'id': 'dc-parrillasuspension13',
 		'name': 'Parrilla Susp. Del. Inf. Izq. Peugeot 206 1998/…',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -507,7 +507,7 @@ export const items = [
 		'id': 'dc-parrillasuspension14',
 		'name': 'Parrilla Susp. Del. Inf. Der. Peugeot 206 1998/…',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -525,7 +525,7 @@ export const items = [
 		'id': 'dc-parrillasuspension15',
 		'name': 'Brazo Rotula Der. P.205/Citroen C 15 L= 310mm',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -543,7 +543,7 @@ export const items = [
 		'id': 'dc-parrillasuspension16',
 		'name': 'Brazo Rotula Izq. P.205 / Citroen C 15 L= 310mm',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -561,7 +561,7 @@ export const items = [
 		'id': 'dc-parrillasuspension17',
 		'name': 'Parrilla Suspensión Citroen Xsara - Picasso - Berlingo HDI / Peugeot Partner Derecha (Con Rotula 18 Mm) Buje Pico Pato',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -579,7 +579,7 @@ export const items = [
 		'id': 'dc-parrillasuspension18',
 		'name': 'Parrilla Suspensión Citroen Xsara - Picasso - Berlingo HDI / Peugeot Partner Izquierda (Con Rotula 18 Mm) Buje Pico Pato',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -597,7 +597,7 @@ export const items = [
 		'id': 'dc-parrillasuspension19',
 		'name': 'Parrilla Suspensión Renault Kwid Delantera Der. C/Rotula',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -615,7 +615,7 @@ export const items = [
 		'id': 'dc-parrillasuspension20',
 		'name': 'Parrilla Suspensión Renault Kwid Delantera Izq. C/Rotula',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -633,7 +633,7 @@ export const items = [
 		'id': 'dc-parrillasuspension21',
 		'name': 'Parrilla Suspensión Renault Logan - Sandero .../2015 Delantera Inferior Derecha C/Rotula',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -651,7 +651,7 @@ export const items = [
 		'id': 'dc-parrillasuspension22',
 		'name': 'Parrilla Suspensión Renault Logan - Sandero …./2015 Delantera Inferior Izquierda C/Rotula',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -669,7 +669,7 @@ export const items = [
 		'id': 'dc-parrillasuspension23',
 		'name': 'Parrilla Suspensión Toyota Etios Delantera Der. C/Rotula',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -687,7 +687,7 @@ export const items = [
 		'id': 'dc-parrillasuspension24',
 		'name': 'Parrilla Suspensión Toyota Etios Delantera Izq. C/Rotula',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -705,7 +705,7 @@ export const items = [
 		'id': 'dc-parrillasuspension25',
 		'name': 'Parrilla Suspensión Volkswagen Fox - Cross Fox - Suran (04/..) / Seat Ibiza Derecha/Izquierda S/Rotula',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -723,7 +723,7 @@ export const items = [
 		'id': 'dc-parrillasuspension26',
 		'name': 'Parrilla Suspensión Volkswagen Gol Agujero 12mm Der/Izq S/Rotula 93/2000',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -741,7 +741,7 @@ export const items = [
 		'id': 'dc-mazarueda',
 		'name': 'Maza Rueda Trasera Armada Chevrolet Cobalt 1.8 - Onix 1.4',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -759,7 +759,7 @@ export const items = [
 		'id': 'dc-mazarueda2',
 		'name': 'Ruleman Rueda Chevrolet Aveo /Kalos/Spark/Vectra 1.0/1.2',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -777,7 +777,7 @@ export const items = [
 		'id': 'dc-mazarueda3',
 		'name': 'Ruleman Rueda Chevrolet Corsa Wind GL 94/.. Delantera',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -795,7 +795,7 @@ export const items = [
 		'id': 'dc-mazarueda4',
 		'name': 'Ruleman Rueda Fiat Duna - Uno /Fiorino/Regattta',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -813,7 +813,7 @@ export const items = [
 		'id': 'dc-mazarueda5',
 		'name': 'Ruleman Rueda Fiat Palio/Siena/Idea/ Uno C/Abs (Chico)',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -831,7 +831,7 @@ export const items = [
 		'id': 'dc-mazarueda6',
 		'name': 'Maza Rueda Trasero Armada Fiat Duna/Uno/147 C/Ruleman',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -849,7 +849,7 @@ export const items = [
 		'id': 'dc-mazarueda7',
 		'name': 'Maza De Rueda Tras. Fiat Toro/Renegade 4x2 C/Abs 2018/…',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -867,7 +867,7 @@ export const items = [
 		'id': 'dc-mazarueda8',
 		'name': 'Maza De Rueda Del. Fiat Toro/Renegade 4x2 C/Abs 2018/…',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -885,7 +885,7 @@ export const items = [
 		'id': 'dc-mazarueda9',
 		'name': 'Ruleman Semieje Palier Ford Ecosport - Mondeo 1.8-2.0',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -903,7 +903,7 @@ export const items = [
 		'id': 'dc-mazarueda10',
 		'name': 'Ruleman Rueda Ford Focus Trasera - Ecosport 4x2',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -921,7 +921,7 @@ export const items = [
 		'id': 'dc-mazarueda11',
 		'name': 'Maza De Rueda Del. Comp. Ford Ranger 4x4 S/Abs 1997/…',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -939,7 +939,7 @@ export const items = [
 		'id': 'dc-mazarueda12',
 		'name': 'Maza De Rueda Del. Comp. Ford Ranger 4x4 C/Abs 1997/…',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -957,7 +957,7 @@ export const items = [
 		'id': 'dc-mazarueda13',
 		'name': 'Maza De Rueda Tras. Comp. Honda Fit C/Abs 2003/…',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -975,7 +975,7 @@ export const items = [
 		'id': 'dc-mazarueda14',
 		'name': 'Maza De Rueda Tras. Comp. Honda Fit/City C/Abs 2009/…',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -993,7 +993,7 @@ export const items = [
 		'id': 'dc-mazarueda15',
 		'name': 'Maza De Rueda Del. Comp. Nissan Frontier C/Abs 2010/…',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1011,7 +1011,7 @@ export const items = [
 		'id': 'dc-mazarueda16',
 		'name': 'Kit Rodillo Peugeot 405 - Partner /Citroen Berlingo',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1029,7 +1029,7 @@ export const items = [
 		'id': 'dc-mazarueda17',
 		'name': 'Maza De Rueda Tras. Comp. P,205/405 S/Abs 1994/…',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1047,7 +1047,7 @@ export const items = [
 		'id': 'dc-mazarueda18',
 		'name': 'Ruleman Rueda Renault 12 -18- Delantero 72mm',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1065,7 +1065,7 @@ export const items = [
 		'id': 'dc-mazarueda19',
 		'name': 'Ruleman Rueda Renault 9 - 11 - 19 - Express - Clio II Trasero',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1083,7 +1083,7 @@ export const items = [
 		'id': 'dc-mazarueda20',
 		'name': 'Ruleman Rueda Renault 9 - 11 - 19 (H/94) Delantero',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1101,7 +1101,7 @@ export const items = [
 		'id': 'dc-mazarueda21',
 		'name': 'Ruleman Rueda Renault Trafic 1.4-1.6-1.7-2.0-2.1 D 84mm',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1119,7 +1119,7 @@ export const items = [
 		'id': 'dc-mazarueda22',
 		'name': 'Ruleman Maza De Rueda Renault 18 - 21 - Fuego Delantero',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1137,7 +1137,7 @@ export const items = [
 		'id': 'dc-mazarueda23',
 		'name': 'Maza De Rueda Tras.Comp. Clio II/Kangoo S/Abs 1998/…',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1155,7 +1155,7 @@ export const items = [
 		'id': 'dc-mazarueda24',
 		'name': 'Maza De Rueda Tras. Comp. Clio/Kangoo C/Abs 2014/…',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1173,7 +1173,7 @@ export const items = [
 		'id': 'dc-mazarueda25',
 		'name': 'Maza Rueda Delantera Toyota Etios 1.5 (13/..)C/Abs 4 Izq.',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1191,7 +1191,7 @@ export const items = [
 		'id': 'dc-mazarueda26',
 		'name': 'Maza Rueda Delantera Toyota Etios 1.5 (13/..) C/Abs 4 Der.',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1209,7 +1209,7 @@ export const items = [
 		'id': 'dc-mazarueda27',
 		'name': 'Maza Rueda Trasera Armanda Volkswagen Gol 1.6 (08/..)',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1227,7 +1227,7 @@ export const items = [
 		'id': 'dc-mazarueda28',
 		'name': 'Ruleman Rueda Volkswagen Gol - Gol Trend - Gacel',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1245,7 +1245,7 @@ export const items = [
 		'id': 'dc-mazarueda29',
 		'name': 'Ruleman Rueda Volkswagen Polo - Golf -Caddy-Vento',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1263,7 +1263,7 @@ export const items = [
 		'id': 'dc-mazarueda30',
 		'name': 'Maza De Rueda Tras. Vw Fox/Suran C/Abs 2003/…',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1281,7 +1281,7 @@ export const items = [
 		'id': 'dc-mazarueda31',
 		'name': 'Maza De Rueda Tras. Bora/Golf Iv/Saveiro C/Abs 1998/…',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1299,7 +1299,7 @@ export const items = [
 		'id': 'dc-mazarueda32',
 		'name': 'Maza De Rueda Tras. Vw Spacefox/Suran/Fox 2003/….',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1317,7 +1317,7 @@ export const items = [
 		'id': 'dc-poleas',
 		'name': 'Polea Viscosa Chevrolet S10 - Blazer 2.8 Motor M.W.M (01/04)',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1335,7 +1335,7 @@ export const items = [
 		'id': 'dc-poleas2',
 		'name': 'Polea Viscosa Chevrolet S10/Trailblazer 2014/….',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1353,7 +1353,7 @@ export const items = [
 		'id': 'dc-poleas3',
 		'name': 'Polea Viscosa Ford Ranger/ Aerostar 3.0lts V6',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1371,7 +1371,7 @@ export const items = [
 		'id': 'dc-poleas4',
 		'name': 'Polea Viscosa Maxion 2.5/2.8 (4 Agujeros) 1997/2007',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1389,7 +1389,7 @@ export const items = [
 		'id': 'dc-poleas5',
 		'name': 'Polea Viscosa Mercedes Sprinter/S10/Blazer 2.8/3.0 Mwm',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1407,7 +1407,7 @@ export const items = [
 		'id': 'dc-poleas6',
 		'name': 'Polea Viscosa Mitsubishi L200 4x4 2,4 96/L-300 (Oem 1320a009)',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1425,7 +1425,7 @@ export const items = [
 		'id': 'dc-poleas7',
 		'name': 'Polea Viscosa Suzuki Grand Vitara Nafta/Dsl Motor L4 1800',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1443,7 +1443,7 @@ export const items = [
 		'id': 'dc-poleas8',
 		'name': 'Polea Viscosa Toyota Hilux 3,0 2,5 Motor 1kz / 2kz / 1kd (05/..)',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1461,7 +1461,7 @@ export const items = [
 		'id': 'dc-poleas9',
 		'name': 'Polea Viscosa Toyota Hilux 2.4 -2.8 Lts Sr5 Diesel 95',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1479,7 +1479,7 @@ export const items = [
 		'id': 'dc-rotulasuspension',
 		'name': 'Rotula Chevrolet Corsa - Combo - Classic - Tigra - Wagon 98',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1497,7 +1497,7 @@ export const items = [
 		'id': 'dc-rotulasuspension2',
 		'name': 'Rotula Chevrolet Blazer - S10 4x4 (95/11) Superior',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1515,7 +1515,7 @@ export const items = [
 		'id': 'dc-rotulasuspension3',
 		'name': 'Rotula Chevrolet Blazer - S10 4x2-4x4 (95/11) Inferior',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1533,7 +1533,7 @@ export const items = [
 		'id': 'dc-rotulasuspension4',
 		'name': 'Rotula Chevrolet Pick Up/Brava/C 10 63/78 Diam.50.50mm Inf.',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1551,7 +1551,7 @@ export const items = [
 		'id': 'dc-rotulasuspension5',
 		'name': 'Rotula Chevrolet Cobalt - Onix - Prisma - Sonic - Spin',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1569,7 +1569,7 @@ export const items = [
 		'id': 'dc-rotulasuspension6',
 		'name': 'Rotula Susp. Corsa Classic - Wagon - Celta/Prisma (10/..)',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1587,7 +1587,7 @@ export const items = [
 		'id': 'dc-rotulasuspension7',
 		'name': 'Rotula Fiat Palio/Weekend/Siena 96/99 Inferior (Cono 14mm)',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1605,7 +1605,7 @@ export const items = [
 		'id': 'dc-rotulasuspension8',
 		'name': 'Rotula Fiat Ducato 94/02 /Peugeot Boxer 96/02',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1623,7 +1623,7 @@ export const items = [
 		'id': 'dc-rotulasuspension9',
 		'name': 'Rotula Fiat Palio - Weekend - Siena - Strada 01/. Inclinada',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1641,7 +1641,7 @@ export const items = [
 		'id': 'dc-rotulasuspension10',
 		'name': 'Rotula Fiat Palio - Idea - Strada - Adventure (06/..) Inf. Der.',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1659,7 +1659,7 @@ export const items = [
 		'id': 'dc-rotulasuspension11',
 		'name': 'Rotula Fiat Palio - Idea - Strada - Adventure (06/..) Inf. Izq.',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1677,7 +1677,7 @@ export const items = [
 		'id': 'dc-rotulasuspension12',
 		'name': 'Rotula Fiat Punto - Linea - Qubo (08/..) / Alfa Romeo Mito Inf.',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1695,7 +1695,7 @@ export const items = [
 		'id': 'dc-rotulasuspension13',
 		'name': 'Rotula Ford Escort - Xr3 - Rural - Orion (97/03)',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1713,7 +1713,7 @@ export const items = [
 		'id': 'dc-rotulasuspension14',
 		'name': 'Rotula Ford Ranger 4x2 4x4 - Explorer (98/..) Inferior',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1731,7 +1731,7 @@ export const items = [
 		'id': 'dc-rotulasuspension15',
 		'name': 'Rotula Ford Ecosport 4x2-4x4 (03/..) - Fiesta - Max',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1749,7 +1749,7 @@ export const items = [
 		'id': 'dc-rotulasuspension16',
 		'name': 'Rotula Ford Fiesta - Courier (89/94) - Ka (96/07) Inferior',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1767,7 +1767,7 @@ export const items = [
 		'id': 'dc-rotulasuspension17',
 		'name': 'Rotula Ford Ranger 4x4 Superior (13/..) (Ø 46.05mm)',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1785,7 +1785,7 @@ export const items = [
 		'id': 'dc-rotulasuspension18',
 		'name': 'Rotula Ford Focus Focus II Focus III - Cmax Inf. Der. 2014/…',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1803,7 +1803,7 @@ export const items = [
 		'id': 'dc-rotulasuspension19',
 		'name': 'Rotula Ford Focus Focus II Focus III - Cmax Inf. Izq. 2014/…',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1821,7 +1821,7 @@ export const items = [
 		'id': 'dc-rotulasuspension20',
 		'name': 'Rotula Peugeot 306 93/98 / Citroen Zx - Berlingo - Xsara',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1839,7 +1839,7 @@ export const items = [
 		'id': 'dc-rotulasuspension21',
 		'name': 'Rotula Peugeot 306 - Partner 99/08 / Citroen Zx - Xsara',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1857,7 +1857,7 @@ export const items = [
 		'id': 'dc-rotulasuspension22',
 		'name': 'Rotula Peugeot 405/Break 88/96 Inferior (Rm. 38x1.50)',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1875,7 +1875,7 @@ export const items = [
 		'id': 'dc-rotulasuspension23',
 		'name': 'Rotula Peugeot 504/505/Pick Up/Familiar 81/01 Inf.',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1893,7 +1893,7 @@ export const items = [
 		'id': 'dc-rotulasuspension24',
 		'name': 'Rotula Peugeot 306 93/01 Inferior Pivote 16mm (Larga)',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1911,7 +1911,7 @@ export const items = [
 		'id': 'dc-rotulasuspension25',
 		'name': 'Rotula Peugeot 208/ Citroen C3 II - C3 Picasso (Rm 38x1.5) Inf.',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1929,7 +1929,7 @@ export const items = [
 		'id': 'dc-rotulasuspension26',
 		'name': 'Rotula Renault 18/Fuego/Break 81/95 Inferior',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1947,7 +1947,7 @@ export const items = [
 		'id': 'dc-rotulasuspension27',
 		'name': 'Rotula Renault 12/Dacia 71/94 Superior Ambas Manos',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1965,7 +1965,7 @@ export const items = [
 		'id': 'dc-rotulasuspension28',
 		'name': 'Rotula Renault 19 92/00  - Clio 92/.. - Express 98/00',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1983,7 +1983,7 @@ export const items = [
 		'id': 'dc-rotulasuspension29',
 		'name': 'Rotula Renault 12/Dacia 71/94 Inferior Ambas Manos',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -2001,7 +2001,7 @@ export const items = [
 		'id': 'dc-rotulasuspension30',
 		'name': 'Rotula Toyota Hilux - Sw4 - Runner 05/.. Inferior 43.8mm',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -2019,7 +2019,7 @@ export const items = [
 		'id': 'dc-rotulasuspension31',
 		'name': 'Rotula Volkswagen Senda/Gol 97/07 Recta Pivote 17mm',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -2037,7 +2037,7 @@ export const items = [
 		'id': 'dc-rotulasuspension32',
 		'name': 'Rotula Volkswagen Senda/Gol/Saveiro 97/07 Inferior Der.',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -2055,7 +2055,7 @@ export const items = [
 		'id': 'dc-rotulasuspension33',
 		'name': 'Rotula Volkswagen Senda - Saveiro 93/95 Izq. Pivote 15mm',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -2073,7 +2073,7 @@ export const items = [
 		'id': 'dc-rotulasuspension34',
 		'name': 'Rotula Volkswagen Senda - Gol - Saveiro 97/07 Inf. Izq Direc.',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -2091,7 +2091,7 @@ export const items = [
 		'id': 'dc-rotulasuspension35',
 		'name': 'Rotula Volkswagen Polo - Caddy (96/07) - Golf (83/98) Inf.',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -2109,7 +2109,7 @@ export const items = [
 		'id': 'dc-rotulasuspension36',
 		'name': 'Rotula Volkswagen Amarok 4x4 2.0TDI Inferior Amb Manos',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -2127,7 +2127,7 @@ export const items = [
 		'id': 'dc-rotulasuspension37',
 		'name': 'Rotula Volkswagen Amarok 4x4 2.0TDI Superior Amb Manos',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -2145,7 +2145,7 @@ export const items = [
 		'id': 'dc-extremodireccion',
 		'name': 'Extremo Dirección Chevrolet Corsa/Combo/Tigra/94/99',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -2163,7 +2163,7 @@ export const items = [
 		'id': 'dc-extremodireccion2',
 		'name': 'Extremo Dirección Chevrolet Onix - Cobalt - Prisma - Spin',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -2181,7 +2181,7 @@ export const items = [
 		'id': 'dc-extremodireccion3',
 		'name': 'Extremo Dirección Chevrolet Cruze 1.4/1.8 Turbo Lzt',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -2199,7 +2199,7 @@ export const items = [
 		'id': 'dc-extremodireccion4',
 		'name': 'Extremo Dirección Chevrolet Cruze 1.4/1.8 Turbo Lzt',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -2217,7 +2217,7 @@ export const items = [
 		'id': 'dc-extremodireccion5',
 		'name': 'Extremo Dirección Fiat Palio/Weekend/Siena/Strada 96/.Der.',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -2235,7 +2235,7 @@ export const items = [
 		'id': 'dc-extremodireccion6',
 		'name': 'Extremo Dirección Fiat Palio/Weekend/Siena/Strada 96/. Izq.',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -2253,7 +2253,7 @@ export const items = [
 		'id': 'dc-extremodireccion7',
 		'name': 'Extremo Dirección Fiat Duna/Uno/Fiorino/Weekend 93',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -2271,7 +2271,7 @@ export const items = [
 		'id': 'dc-extremodireccion8',
 		'name': 'Extremo Dirección Fiat Ducato 2.8td 94/02',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -2289,7 +2289,7 @@ export const items = [
 		'id': 'dc-extremodireccion9',
 		'name': 'Extremo Dirección Ford Fiesta/Courier 03/.. /Ka 08/.. Der.',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -2307,7 +2307,7 @@ export const items = [
 		'id': 'dc-extremodireccion10',
 		'name': 'Extremo Dirección Ford Fiesta/Courier 03/.. /Ka 08/.. Izq.',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -2325,7 +2325,7 @@ export const items = [
 		'id': 'dc-extremodireccion11',
 		'name': 'Extremo Dirección Ford Escort/Xr3/Rural 88/96 /Fiesta',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -2343,7 +2343,7 @@ export const items = [
 		'id': 'dc-extremodireccion12',
 		'name': 'Extremo Dirección Peugeot 205 (83/99) - 504 (81/01) - 306',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -2361,7 +2361,7 @@ export const items = [
 		'id': 'dc-extremodireccion13',
 		'name': 'Extremo Dirección Renault 19 92/00 Der.',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -2379,7 +2379,7 @@ export const items = [
 		'id': 'dc-extremodireccion14',
 		'name': 'Extremo Dirección Renault 19 92/00 Izq.',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -2397,7 +2397,7 @@ export const items = [
 		'id': 'dc-extremodireccion15',
 		'name': 'Extremo Dirección Peugeot 106 - 206 - 207 - 306 - 307 - 605',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -2415,7 +2415,7 @@ export const items = [
 		'id': 'dc-extremodireccion16',
 		'name': 'Extremo Dirección Peugeot 206 - 207 - 307 / Citroen C4 Hatch',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -2433,7 +2433,7 @@ export const items = [
 		'id': 'dc-extremodireccion17',
 		'name': 'Extremo Dirección Renault Clio Ii (99/..) - Megane (98/..) - Symbol Der.',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -2449,9 +2449,9 @@ export const items = [
 
 	{
 		'id': 'dc-extremodireccion18',
-		'name': 'Extremo Dirección Renault Clio Ii (99/..) - Megane (98/..) - Symbol Izq.',	
+		'name': 'Extremo Dirección Renault Clio II (99/..) - Megane (98/..) - Symbol Izq.',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -2469,7 +2469,7 @@ export const items = [
 		'id': 'dc-extremodireccion19',
 		'name': 'Extremo Dirección Renault 9 - 11 (84/96) - R18 - Fuego',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -2487,7 +2487,7 @@ export const items = [
 		'id': 'dc-extremodireccion20',
 		'name': 'Extremo Dirección Renault 12/Dacia 71/94 Izq. L=236mm',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -2505,7 +2505,7 @@ export const items = [
 		'id': 'dc-extremodireccion21',
 		'name': 'Extremo Dirección Renault 12/Dacia 71/94 Der. L=236mm',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -2523,7 +2523,7 @@ export const items = [
 		'id': 'dc-extremodireccion22',
 		'name': 'Extremo Dirección Renault Clio 94/99 /Megane 95/99 Der.',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -2541,7 +2541,7 @@ export const items = [
 		'id': 'dc-extremodireccion23',
 		'name': 'Extremo Dirección Renault Clio 94/99 /Megane 95/99 Izq.',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -2559,7 +2559,7 @@ export const items = [
 		'id': 'dc-extremodireccion24',
 		'name': 'Extremo Renault Logan/Sandero/Stepway 07/.. Der.',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -2577,7 +2577,7 @@ export const items = [
 		'id': 'dc-extremodireccion25',
 		'name': 'Extremo Renault Logan - Sandero - Stepway (07/..) Izq.',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -2595,7 +2595,7 @@ export const items = [
 		'id': 'dc-extremodireccion26',
 		'name': 'Extremo Toyota Hilux 4027 Lena',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -2613,7 +2613,7 @@ export const items = [
 		'id': 'dc-extremodireccion27',
 		'name': 'Extremo Dirección Volkswagen Senda - Gol - Saveiro 95',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -2631,7 +2631,7 @@ export const items = [
 		'id': 'dc-extremodireccion28',
 		'name': 'Extremo Dirección Volkswagen Golf - Bora - New Beetle (99/11)',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -2639,7 +2639,7 @@ export const items = [
 		'marca': 'Volkswagen',
 		'pesoNetoUnitario': '0,45',
 		'descripcion': 'lorem lorem',
-		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_855977-MLA47661191766_092021-F.webp',
+		'url': 'https://img.xentra.com.mx/autopartescimaco/img/productos/TERMINAL%20EXTERIOR%20L/1J0-422-811/1J0-422-811_842_12_12_22_01_51.webp',
 		'categoria':'Extremo Dirección',
 		'codigoCliente': 'ST807',
 		'cliente':'SITEC'
@@ -2649,7 +2649,7 @@ export const items = [
 		'id': 'dc-extremodireccion29',
 		'name': 'Extremo Dirección Volkswagen Golf - Bora - New Beetle (99/11)',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -2667,7 +2667,7 @@ export const items = [
 		'id': 'dc-extremodireccion30',
 		'name': 'Extremo Dirección Volkswagen Golf - Bora - New Beetle',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -2685,7 +2685,7 @@ export const items = [
 		'id': 'dc-extremodireccion31',
 		'name': 'Extremo Dirección Volkswagen Golf - Bora - New Beetle',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -2700,28 +2700,10 @@ export const items = [
 	},
 
 	{
-		'id': 'dc-extremodireccion32',
-		'name': 'Extremo Dirección Volkswagen Golf - Bora - New Beetle',	
-		'publisher': 'otro',
-		'pais': 'Brasil',
-		'first_appearance': 'lorem lorem',
-		'characters': 'lorem lorem lorem',
-
-		'oem': '6N0423812C',
-		'marca': 'Volkswagen',
-		'pesoNetoUnitario': '0,45',
-		'descripcion': 'lorem lorem',
-		'url': 'https://img.xentra.com.mx/autopartescimaco/img/productos/TERMINAL%20EXTERIOR%20L/1J0-422-811/1J0-422-811_842_12_12_22_01_51.webp',
-		'categoria':'Extremo Dirección',
-		'codigoCliente': 'ST807',
-		'cliente':'SITEC'
-	},
-
-	{
 		'id': 'dc-portamazas',
 		'name': 'Montante Portamaza Peugeot 206 Motor 1.6 16v Disco Vent.',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -2739,7 +2721,7 @@ export const items = [
 		'id': 'dc-portamazas2',
 		'name': 'Montante Portamaza Peugeot 206 Motor 1.4 Disco Solido (72mm) Lado Izquierdo',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -2757,7 +2739,7 @@ export const items = [
 		'id': 'dc-portamazas3',
 		'name': 'Montante Portamaza Peugeot 306/Partner Rotula 16mm',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -2775,7 +2757,7 @@ export const items = [
 		'id': 'dc-portamazas4',
 		'name': 'Montante Portamaza Peugeot 306/Partner Rotula 16mm',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -2793,7 +2775,7 @@ export const items = [
 		'id': 'dc-portamazas5',
 		'name': 'Montante Portamaza Peugeot 206 Motor 1.6 16v Disco Vent.',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -2811,7 +2793,7 @@ export const items = [
 		'id': 'dc-portamazas6',
 		'name': 'Montante Portamaza Peugeot 206 Motor 1.4 Disco Sólido',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -2829,7 +2811,7 @@ export const items = [
 		'id': 'dc-portamazas7',
 		'name': 'Montante Portamaza Renault Logan/Sandero II Lado Izq.',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -2847,7 +2829,7 @@ export const items = [
 		'id': 'dc-portamazas8',
 		'name': 'Montante Portamaza Renault Logan II /Sandero II Lado Der.',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -2865,7 +2847,7 @@ export const items = [
 		'id': 'dc-portamazas9',
 		'name': 'Montante Portamaza Renault Clio-Kangoo Lado Izq. Dsl',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -2883,7 +2865,7 @@ export const items = [
 		'id': 'dc-portamazas10',
 		'name': 'Montante Portamaza Renault Clio-Kangoo Lado Der. Dsl',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -2901,7 +2883,7 @@ export const items = [
 		'id': 'dc-portamazas11',
 		'name': 'Montante Portamaza Toyota Hilux 4x4 Izquierdo (05/16)',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -2919,7 +2901,7 @@ export const items = [
 		'id': 'dc-portamazas12',
 		'name': 'Montante Portamaza Toyota Hilux 4x4 Derecho (05/16)',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 

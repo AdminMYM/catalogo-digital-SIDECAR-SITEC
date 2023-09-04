@@ -16,6 +16,7 @@ export const AuthProvider = ({children})=>{
 
 	const [authState, dispatch] = useReducer(authReducer, {}, init)
 	const [arbi, setArbi] = useState()
+	const [flag, setFlag] = useState(0)
 
 	const login = (name = '')=>{
 
@@ -40,6 +41,8 @@ export const AuthProvider = ({children})=>{
 			logout: logout,
 			arbi,
 			setArbi,
+			flag, 
+			setFlag
 		}}>
 			{children}
 		</AuthContext.Provider>
